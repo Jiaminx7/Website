@@ -7,7 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-Hello. I am a third year Ph.D. student in the [Walker Department of Mechanical Engineering at the University of Texas at Austin](https://www.me.utexas.edu/), where I conducted research in the [dvanced Power Systems and Control Laboratory](https://www.apscl.me.utexas.edu/) under the supervision of Prof. [Dongmei "Maggie" Chen](https://www.me.utexas.edu/people/faculty-directory/chen). 
+Hello. I am a third year Ph.D. student in the [Walker Department of Mechanical Engineering at the University of Texas at Austin](https://www.me.utexas.edu/), where I conducted research in the [Advanced Power Systems and Control Laboratory](https://www.apscl.me.utexas.edu/) under the supervision of Prof. [Dongmei "Maggie" Chen](https://www.me.utexas.edu/people/faculty-directory/chen). 
+My research centers on the integration of advanced physics-based and machine learning techniques to address complex challenges in both academia and industry. I specialize in the modeling, estimation, and control of diverse systems, with applications ranging from drilling automation, vehicle engineering, to fluid mechanics. My work aims to bridge the gap between theoretical advancements and practical implementations, driving innovation in these critical fields.
 
 A data-driven personal website
 ======
