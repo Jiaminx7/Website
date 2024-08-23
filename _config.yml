@@ -12,7 +12,7 @@ title                    : "Jiamin Xu's Homepage"
 title_separator          : "-"
 name                     : &name "Jiamin Xu"
 description              : &description "Ph.D. student"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://jiaminx7.github.io/Website/
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
@@ -24,7 +24,7 @@ author:
   avatar           : "profile.png"
   name             : "Jiamin Xu"
   pronouns         : # example: "He/His"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Ph.D. student in Dynamic Systems and Control"
   location         : "Austin, Texas, USA"
   employer         : "The University of Texas at Austin"
   uri              : # URL
