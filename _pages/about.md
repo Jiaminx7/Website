@@ -15,6 +15,34 @@ My research centers on the integration of advanced physics-based and machine lea
 
 <h2 id="projects">Projects</h2>
 
+<!-- Table of Contents for Projects -->
+<ul>
+  <li><a href="#event-detection">1 Event Detection System for Drilling</a></li>
+  <li><a href="#directional-drilling">2 Modeling, Estimation, and Control of Directional Drilling</a>
+    <ul>
+      <li><a href="#model-validations">2.1 Model Validations</a></li>
+      <li><a href="#model-improvements">2.2 Model Improvements</a>
+        <ul>
+          <li><a href="#ml-approach">Machine Learning approach</a></li>
+          <li><a href="#physics-based-method">Physics-based method</a></li>
+        </ul>
+      </li>
+      <li><a href="#parameter-estimation">2.3 Parameter Estimation</a></li>
+      <li><a href="#model-predictive-control">2.4 Model Predictive Control</a></li>
+    </ul>
+  </li>
+  <li><a href="#optimization">3 Optimization Solver Package</a></li>
+  <li><a href="#flow-structure-interaction">4 Flow Structure Interaction</a></li>
+  <li><a href="#vehicle-engineering">5 Vehicle Engineering</a>
+    <ul>
+      <li><a href="#fuel-cells">5.1 Fuel Cells</a></li>
+      <li><a href="#thermal-management">5.2 Vehicle Thermal Management</a></li>
+      <li><a href="#formula-student">5.3 Formula Student China</a></li>
+    </ul>
+  </li>
+</ul>
+
+<!-- Begin Projects Content -->
 <h3 id="event-detection">1 Event Detection System for Drilling</h3>
 
 <h4 id="two-phase-flow">1.1 Two Phase Flow Simulator</h4>
@@ -124,8 +152,19 @@ My research centers on the integration of advanced physics-based and machine lea
     <img src="https://jiaminx7.github.io/Website/images/ITMS.png" alt="ITMS" style="margin-right: 15px; width: 400px;">
     <p>Integrated thermal management of fuel cell vehicles. 
 
-    Check out our <a href="https://www.sciencedirect.com/science/article/pii/S0360544220306022" target="_blank">Paper 1</a> and <a href="https://www.sciencedirect.com/science/article/pii/S1364032121011746" target="_blank">Paper 2</a>, published by <a href="https://www.sciencedirect.com/journal/energy" target="_blank">Energy</a> and <a href="https://www.sciencedirect.com/journal/renewable-and-s
-    
+    Check out our <a href="https://www.sciencedirect.com/science/article/pii/S0360544220306022" target="_blank">Paper 1</a> and <a href="https://www.sciencedirect.com/science/article/pii/S1364032121011746" target="_blank">Paper 2</a>, published by <a href="https://www.sciencedirect.com/journal/energy" target="_blank">Energy</a> and <a href="https://www.sciencedirect.com/journal/renewable-and-sustainable-energy-reviews" target="_blank">Renewable and Sustainable Energy Reviews</a>, respectively. The second paper is the <strong>Highly Cited Paper</strong> in 2022, 2023, and 2024, <a href="https://www-webofscience-com.ezproxy.lib.utexas.edu/wos/woscc/summary/ced4c522-5b41-43b6-a82c-8015f5c083e1-0103f2b492/relevance/1" target="_blank">Web of Science</a>.
+    </p>
+</div>
+<hr>
+
+<h4 id="formula-student">5.3 Formula Student China</h4>
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+    <img src="https://jiaminx7.github.io/Website/images/FSAE.jpg" alt="FASE" style="margin-right: 15px; width: 400px;">
+    <p>Three year experiences of <a href="http://www.formulastudent.com.cn/" target="_blank">Formula Student China</a> competition. Designed and manufactured one internal combustion engine and one electric formula racers per year.
+    </p>
+</div>
+<hr>
+
 
 <h2 id="publications">Publications</h2>
 <p>My journal and conference publications are listed below. For a brief summary of each work, please refer to the <a href="#projects">Projects</a> section on this page.</p>
