@@ -16,7 +16,7 @@ My research centers on the integration of advanced physics-based and machine lea
 <h2 id="projects">Projects</h2>
 
 <!-- Table of Contents for Projects -->
-<p>Jump to: <a href="#event-detection">Hydraulics</a> | <a href="#directional-drilling">Directional Drilling</a> | <a href="#optimization">Optimization</a> | <a href="#Flow Structure Interaction">Turbulence</a> | <a href="#vehicle-engineering">Vehicles</a></p>
+<p>Jump to: <a href="#event-detection">Hydraulics</a> | <a href="#directional-drilling">Directional Drilling</a> | <a href="#optimization">Optimization</a> | <a href="#flow-structure-interaction">Turbulence</a> | <a href="#vehicle-engineering">Vehicles</a></p>
 
 <!-- Begin Projects Content -->
 <h3 id="event-detection">1 Event Detection System for Drilling</h3>
