@@ -14,7 +14,8 @@ Hello. I am a third year Ph.D. student in the [Walker Department of Mechanical E
 My research centers on the integration of advanced physics-based and machine learning techniques to address complex challenges in both academia and industry. I specialize in the modeling, estimation, and control of diverse systems, with applications ranging from drilling automation, vehicle engineering, to fluid mechanics. My work aims to bridge the gap between theoretical advancements and practical implementations, driving innovation in different fields.
 
 <h2 id="projects">Projects</h2>
-
+<p>
+  
 ## 1 Event Detection System for Driling
 
 ### 1.1 Two Phase Flow Simulator
@@ -138,6 +139,7 @@ My research centers on the integration of advanced physics-based and machine lea
     </p>
 </div>
 ---
+</p>
 
 <h2 id="publications">Publications</h2>
 <p>My journal and conference publications are listed below. For a brief summary of each work, please refer to the <a href="#projects">Projects</a> section on this page.
