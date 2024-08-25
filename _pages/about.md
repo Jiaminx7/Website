@@ -17,10 +17,10 @@ My research centers on the integration of advanced physics-based and machine lea
 
 ## 1 Event Detection System for Driling
 ### 1.1 Two Phase Flow Simulator
-<img src="https://jiaminx7.github.io/Website/images/DFM.gif" alt="DFM" style="float: left; margin-right: 15px; width: 400px;">
-3 nonlinear PDEs with 4 closure equations to simulate the gas bubble propagation inside the wellbore.
-
-<div style="clear:both;"></div>
+<div style="display: flex; align-items: center;">
+    <img src="https://jiaminx7.github.io/Website/images/DFM.gif" alt="DFM" style="margin-right: 15px; width: 400px;">
+    <p>3 nonlinear PDEs with 4 closure equations to simulate the gas bubble propagation inside the wellbore.</p>
+</div>
 
 ## 2 Modeling, Estimation, and Control of Directional Drilling
 ---
