@@ -30,15 +30,15 @@ Check out our paper [Here](https://asmedigitalcollection.asme.org/lettersdynsys/
 <img src="https://jiaminx7.github.io/Website/images/AIM.png" alt="AIM" style="float: left; margin-right: 15px; width: 400px;">
 A data driven approach to approximate the complex nonlinear DDE model by using the Sparse Identification of Nonlinear Dynamics (SINDy) method. 
 
-Check out our paper [Here]([https://asmedigitalcollection.asme.org/lettersdynsys/article-abstract/3/2/021007/1166902/Experimentally-Validated-Nonlinear-Delayed?redirectedFrom=fulltext](https://ras.papercept.net/images/temp/AIM/files/0221.pdf)) which is published by [2024 IEEE/ASME International Conference on Advanced Intelligent Mechatronics (AIM).](https://www.aim2024.org/).
+Check out our paper [Here](https://asmedigitalcollection.asme.org/lettersdynsys/article-abstract/3/2/021007/1166902/Experimentally-Validated-Nonlinear-Delayed?redirectedFrom=fulltext](https://ras.papercept.net/images/temp/AIM/files/0221.pdf) which is published by [2024 IEEE/ASME International Conference on Advanced Intelligent Mechatronics (AIM)](https://www.aim2024.org/).
 
 <div style="clear:both;"></div>
 
 #### Physics-based method
-<img src="https://jiaminx7.github.io/Website/images/AIM.png" alt="AIM" style="float: left; margin-right: 15px; width: 400px;">
+<img src="https://jiaminx7.github.io/Website/images/Figure2.pdf" alt="JPSE" style="float: left; margin-right: 15px; width: 400px;">
 A data driven approach to approximate the complex nonlinear DDE model by using the Sparse Identification of Nonlinear Dynamics (SINDy) method. 
 
-Check out our paper [Here]([https://asmedigitalcollection.asme.org/lettersdynsys/article-abstract/3/2/021007/1166902/Experimentally-Validated-Nonlinear-Delayed?redirectedFrom=fulltext](https://ras.papercept.net/images/temp/AIM/files/0221.pdf)) which is published by [2024 IEEE/ASME International Conference on Advanced Intelligent Mechatronics (AIM).](https://www.aim2024.org/).
+Check out our paper [Here](https://www.sciencedirect.com/science/article/pii/S2949891024001994) which is published by [2024 IEEE/ASME International Conference on Advanced Intelligent Mechatronics (AIM).](https://www.aim2024.org/).
 
 <div style="clear:both;"></div>
 
