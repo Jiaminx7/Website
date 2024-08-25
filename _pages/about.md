@@ -53,7 +53,7 @@ Check out our paper [Here](https://www.sciencedirect.com/science/article/pii/S29
 <div style="clear:both;"></div>
 
 ### 1.4 Model Predictive Control
-<img src="https://jiaminx7.github.io/Website/images/MPC.tiff" alt="MPC" style="float: left; margin-right: 15px; width: 400px;">
+<img src="https://jiaminx7.github.io/Website/images/MPC.png" alt="MPC" style="float: left; margin-right: 15px; width: 400px;">
 A Model Predictive Controller for directional drilling by using the nonlinear DDE model. 
 
 Paper accepted by Modelling, Estimation, and Control Conference ([MECC 2024](https://mecc2024.a2c2.org/)).
