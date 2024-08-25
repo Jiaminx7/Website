@@ -18,8 +18,8 @@ My research centers on the integration of advanced physics-based and machine lea
 ### 1. Modeling, Estimation, and Control of Directional Drilling
 
 #### 1.1 Model Validations
-<img src="https://jiaminx7.github.io/Website/images/Comparison.gif" alt="MECC_2023" style="width:500px;">
-Compared and generalized linear/nonlinear DDE models for borehole propagation using experimental data. Check out our paper [Dongmei "Maggie" Chen](https://www.me.utexas.edu/people/faculty-directory/chen). [Here](https://asmedigitalcollection.asme.org/lettersdynsys/article-abstract/3/2/021007/1166902/Experimentally-Validated-Nonlinear-Delayed?redirectedFrom=fulltext), which is the Best Student Paper Finalist at Modelling, Estimation, and Control Conference ([MECC 2023](https://mecc2023.a2c2.org/)).
+<img src="https://jiaminx7.github.io/Website/images/Comparison.gif" alt="MECC_2023" style="float: left; right: 15px; width: 300px;">
+Compared and generalized linear/nonlinear DDE models for borehole propagation using experimental data. Check out our paper [Here](https://asmedigitalcollection.asme.org/lettersdynsys/article-abstract/3/2/021007/1166902/Experimentally-Validated-Nonlinear-Delayed?redirectedFrom=fulltext), which is the Best Student Paper Finalist at Modelling, Estimation, and Control Conference ([MECC 2023](https://mecc2023.a2c2.org/)).
 
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
