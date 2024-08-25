@@ -7,16 +7,16 @@
 main:
 
   - title: "Projects"
-    url: /about/#featured-projects
+    url: /about/#projects
     
   - title: "Publications"
-    url: /about/#Publications
+    url: /about/#publications
     
   - title: "Honors"
-    url: /about/#Honors    
+    url: /about/#honors    
   
   - title: "Teaching"
-    url: /about/#Teaching    
+    url: /about/#teaching    
 
   - title: "CV"
     url: /files/CV.pdf
