@@ -15,12 +15,19 @@ My research centers on the integration of advanced physics-based and machine lea
 
 # Featured Project
 
-## 1 Modeling, Estimation, and Control of Directional Drilling
+## 1 Event Detection System for Driling
+### 1.1 Two Phase Flow Simulator
+<img src="https://jiaminx7.github.io/Website/images/DFM" alt="DFM" style="float: left; margin-right: 15px; width: 400px;">
+3 nonlinear PDEs with 4 closure equations to simulate the gas bubble propagation inside the wellbore.
+
+<div style="clear:both;"></div>
+
+## 2 Modeling, Estimation, and Control of Directional Drilling
 ---
 <img src="https://jiaminx7.github.io/Website/images/Model.gif" alt="MECC_2023" style="width: 800px;">
 <div style="clear:both;"></div>
 
-### 1.1 Model Validations
+### 2.1 Model Validations
 <img src="https://jiaminx7.github.io/Website/images/Comparison.gif" alt="MECC_2023" style="float: left; margin-right: 15px; width: 400px;">
 Compared and generalized linear/nonlinear DDE models for borehole propagation using experimental data. 
 
@@ -28,7 +35,7 @@ Check out our paper [Here](https://asmedigitalcollection.asme.org/lettersdynsys/
 
 <div style="clear:both;"></div>
 
-### 1.2 Model Imrprovements
+### 2.2 Model Imrprovements
 #### Machine Learning approach
 <img src="https://jiaminx7.github.io/Website/images/AIM.png" alt="AIM" style="float: left; margin-right: 15px; width: 400px;">
 A data driven approach to approximate the complex nonlinear DDE model by using the Sparse Identification of Nonlinear Dynamics (SINDy) method. 
@@ -45,7 +52,7 @@ Check out our paper [Here](https://www.sciencedirect.com/science/article/pii/S29
 
 <div style="clear:both;"></div>
 
-### 1.3 Parameter Estimation
+### 2.3 Parameter Estimation
 <img src="https://jiaminx7.github.io/Website/images/Estimation.png" alt="Estimation" style="float: left; margin-right: 15px; width: 400px;">
 A Gradient Descent based method equipped with Line Search to estimate the unknown parameter during drilling. 
 
@@ -53,7 +60,7 @@ Check out our paper [Here](https://www.sciencedirect.com/science/article/pii/S29
 
 <div style="clear:both;"></div>
 
-### 1.4 Model Predictive Control
+### 2.4 Model Predictive Control
 <img src="https://jiaminx7.github.io/Website/images/MPC.png" alt="MPC" style="float: left; margin-right: 15px; width: 400px;">
 A Model Predictive Controller for directional drilling by using the nonlinear DDE model. 
 
@@ -62,11 +69,9 @@ Paper accepted by Modelling, Estimation, and Control Conference ([MECC 2024](htt
 <div style="clear:both;"></div>
 ---
 
-## 2 Optimization Solver Package
+## 3 Optimization Solver Package
 <img src="https://jiaminx7.github.io/Website/images/optimization.png" alt="Optimization" style="float: left; margin-right: 15px; width: 400px;">
 RaghuRobi, named after one of my favorite instructor [Dr. Bollapragada](https://oden.utexas.edu/people/directory/Raghu-Bollapragada/), is a software package for solving unconstrained optimization problems with methods such as Gradient Descent, Newton-CG, and BFGS.
 <div style="clear:both;"></div>
 
-## 3 Event Detection System for Driling
-Coming Soon
-<div style="clear:both;"></div>
+
