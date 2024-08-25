@@ -13,11 +13,15 @@ Hello. I am a third year Ph.D. student in the [Walker Department of Mechanical E
 
 My research centers on the integration of advanced physics-based and machine learning techniques to address complex challenges in both academia and industry. I specialize in the modeling, estimation, and control of diverse systems, with applications ranging from drilling automation, vehicle engineering, to fluid mechanics. My work aims to bridge the gap between theoretical advancements and practical implementations, driving innovation in different fields.
 
-## Featured Research
+# Featured Research
 
-### 1. Modeling, Estimation, and Control of Directional Drilling
+## 1. Modeling, Estimation, and Control of Directional Drilling
 
-#### 1.1 Model Validations
+### 1.1 Model Validations
+<img src="https://jiaminx7.github.io/Website/images/Comparison.gif" alt="MECC_2023" style="float: left; right: 15px; width: 300px;">
+Compared and generalized linear/nonlinear DDE models for borehole propagation using experimental data. Check out our paper [Here](https://asmedigitalcollection.asme.org/lettersdynsys/article-abstract/3/2/021007/1166902/Experimentally-Validated-Nonlinear-Delayed?redirectedFrom=fulltext), which is the Best Student Paper Finalist at Modelling, Estimation, and Control Conference ([MECC 2023](https://mecc2023.a2c2.org/)).
+
+### 1.2 Model Imrprovements
 <img src="https://jiaminx7.github.io/Website/images/Comparison.gif" alt="MECC_2023" style="float: left; right: 15px; width: 300px;">
 Compared and generalized linear/nonlinear DDE models for borehole propagation using experimental data. Check out our paper [Here](https://asmedigitalcollection.asme.org/lettersdynsys/article-abstract/3/2/021007/1166902/Experimentally-Validated-Nonlinear-Delayed?redirectedFrom=fulltext), which is the Best Student Paper Finalist at Modelling, Estimation, and Control Conference ([MECC 2023](https://mecc2023.a2c2.org/)).
 
