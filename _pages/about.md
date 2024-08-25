@@ -46,7 +46,7 @@ My research centers on the integration of advanced physics-based and machine lea
     <p>
         Compared and generalized linear/nonlinear DDE models for borehole propagation using experimental data.
         Check out our paper <a href="https://asmedigitalcollection.asme.org/lettersdynsys/article-abstract/3/2/021007/1166902/Experimentally-Validated-Nonlinear-Delayed?redirectedFrom=fulltext" target="_blank">Here</a>,
-        which is the **Best Student Paper Finalist** at Modelling, Estimation, and Control Conference (<a href="https://mecc2023.a2c2.org/" target="_blank">MECC 2023</a>).
+        which is the <strong>Best Student Paper Finalist</strong> at Modelling, Estimation, and Control Conference (<a href="https://mecc2023.a2c2.org/" target="_blank">MECC 2023</a>).
     </p>
 </div>
 ---
@@ -112,10 +112,21 @@ My research centers on the integration of advanced physics-based and machine lea
 ## 5 Vehicle Engineering
 ### 5.1 Fuel Cells
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
-    <img src="https://jiaminx7.github.io/Website/images/FuelCell.png" alt="Fuelcell" style="margin-right: 15px; width: 400px;">
+    <img src="https://jiaminx7.github.io/Website/images/Fuelcell.png" alt="Fuelcell" style="margin-right: 15px; width: 400px;">
     <p>Optimization of graded catalyst layer to improve fuel cell performance. 
 
-    Check out our paper <a href="https://www.sciencedirect.com/science/article/pii/S0360544222024665" target="_blank">Here</a> which is published by <a href="https://www.sciencedirect.com/journal/energy" target="_blank">Energy</a> and is the **Highly Cited Paper** in 2023, Web of Science.
+    Check out our paper <a href="https://www.sciencedirect.com/science/article/pii/S0360544222024665" target="_blank">Here</a> which is published by <a href="https://www.sciencedirect.com/journal/energy" target="_blank">Energy</a> and is the <strong>Highly Cited Paper</strong> in 2023, Web of Science.
+    </p>
+</div>
+---
+
+### 5.2 Vehicle Thermal Management
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+    <img src="https://jiaminx7.github.io/Website/images/ITMS.png" alt="ITMS" style="margin-right: 15px; width: 400px;">
+    <p>Integrated thermal management of fuel cell vehicles. 
+
+    Check out our <a href="https://www.sciencedirect.com/science/article/pii/S0360544220306022" target="_blank">Paper 1</a> and <a href="<a href="https://www.sciencedirect.com/science/article/pii/S0360544220306022" target="_blank">Paper 1</a>" target="_blank">Paper 2</a> published by <a href="https://www.sciencedirect.com/journal/energy" target="_blank">Energy</a> and <a href="https://www.sciencedirect.com/journal/renewable-and-sustainable-energy-reviews" target="_blank">Renewable and Sustainable Energy Reviews
+</a>, respecitively. The second paper is the <strong>Highly Cited Paper</strong> in 2022, 2023, and 2024, <a href="https://www-webofscience-com.ezproxy.lib.utexas.edu/wos/woscc/summary/ced4c522-5b41-43b6-a82c-8015f5c083e1-0103f2b492/relevance/1" target="_blank">Web of Science</a> .
     </p>
 </div>
 ---
