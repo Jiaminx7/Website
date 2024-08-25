@@ -63,7 +63,7 @@ Paper accepted by Modelling, Estimation, and Control Conference ([MECC 2024](htt
 ---
 
 ## 2 Optimization Solver Package
-<img src="https://jiaminx7.github.io/Website/images/optimization" alt="Optimization" style="float: left; margin-right: 15px; width: 400px;">
+<img src="https://jiaminx7.github.io/Website/images/optimization.png" alt="Optimization" style="float: left; margin-right: 15px; width: 400px;">
 RaghuRobi, named after one of my favorite instructor [Dr. Bollapragada](https://oden.utexas.edu/people/directory/Raghu-Bollapragada/), is a software package for solving unconstrained optimization problems with methods such as Gradient Descent, Newton-CG, and BFGS.
 <div style="clear:both;"></div>
 
