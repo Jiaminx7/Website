@@ -13,12 +13,11 @@ Hello. I am a third year Ph.D. student in the [Walker Department of Mechanical E
 
 My research centers on the integration of advanced physics-based and machine learning techniques to address complex challenges in both academia and industry. I specialize in the modeling, estimation, and control of diverse systems, with applications ranging from drilling automation, vehicle engineering, to fluid mechanics. My work aims to bridge the gap between theoretical advancements and practical implementations, driving innovation in different fields.
 
-A data-driven personal websit
-======
 ## Featured Research
 
 ### Modeling, Estimation, and Control of Directional Drilling
 
+#### Model Validations
 Xu, J., Demirer, N., Pho, V., Tian, K., Zhang, H., Bhaidasna, K., Darbe, R. and Chen, D., 2024. Advancing real-time drilling trajectory prediction with an efficient nonlinear DDE model and online parameter estimation. Geoenergy Science and Engineering, 238, p.212829.*
 
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
