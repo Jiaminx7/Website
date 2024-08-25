@@ -58,7 +58,7 @@ My research centers on the integration of advanced physics-based and machine lea
     <img src="https://jiaminx7.github.io/Website/images/AIM.png" alt="AIM" style="width: 400px; height: auto; margin-right: 15px;">
     <p>
         A data driven approach to approximate the complex nonlinear DDE model by using the Sparse Identification of Nonlinear Dynamics (SINDy) method. 
-        Check out our paper <a href="https://ras.papercept.net/images/temp/AIM/files/0221.pdf" target="_blank">Here</a> which is published by IEEE/ASME International Conference on Advanced Intelligent Mechatronics (<a href="https://www.aim2024.org/" target="_blank">AIM 2024</a>).
+        Check out our paper <a href="https://ras.papercept.net/images/temp/AIM/files/0221.pdf" target="_blank">Here</a>, published by IEEE/ASME International Conference on Advanced Intelligent Mechatronics (<a href="https://www.aim2024.org/" target="_blank">AIM 2024</a>).
     </p>
 </div>
 ---
@@ -68,7 +68,7 @@ My research centers on the integration of advanced physics-based and machine lea
     <img src="https://jiaminx7.github.io/Website/images/JPSE.png" alt="JPSE" style="margin-right: 15px; width: 400px;">
     <p>An efficient model that is 80 times faster than the nonlinear DDE model while having high prediction accuracy (maximum error within 2 degrees). 
 
-    Check out our paper <a href="https://www.sciencedirect.com/science/article/pii/S2949891024001994" target="_blank">Here</a> which is published by <a href="https://www.sciencedirect.com/journal/geoenergy-science-and-engineering" target="_blank">Geoenergy Science and Engineering</a>.
+    Check out our paper <a href="https://www.sciencedirect.com/science/article/pii/S2949891024001994" target="_blank">Here</a>, published by <a href="https://www.sciencedirect.com/journal/geoenergy-science-and-engineering" target="_blank">Geoenergy Science and Engineering</a>.
     </p>
 </div>
 ---
@@ -78,7 +78,7 @@ My research centers on the integration of advanced physics-based and machine lea
     <img src="https://jiaminx7.github.io/Website/images/Estimation.png" alt="Estimation" style="margin-right: 15px; width: 400px;">
     <p>A Gradient Descent based method equipped with Line Search to estimate the unknown parameter during drilling. 
 
-    Check out our paper <a href="https://www.sciencedirect.com/science/article/pii/S2949891024001994" target="_blank">Here</a> which is published by <a href="https://www.sciencedirect.com/journal/geoenergy-science-and-engineering" target="_blank">Geoenergy Science and Engineering</a>.
+    Check out our paper <a href="https://www.sciencedirect.com/science/article/pii/S2949891024001994" target="_blank">Here</a>, published by <a href="https://www.sciencedirect.com/journal/geoenergy-science-and-engineering" target="_blank">Geoenergy Science and Engineering</a>.
     </p>
 </div>
 ---
@@ -115,7 +115,7 @@ My research centers on the integration of advanced physics-based and machine lea
     <img src="https://jiaminx7.github.io/Website/images/Fuelcell.png" alt="Fuelcell" style="margin-right: 15px; width: 400px;">
     <p>Optimization of graded catalyst layer to improve fuel cell performance. 
 
-    Check out our paper <a href="https://www.sciencedirect.com/science/article/pii/S0360544222024665" target="_blank">Here</a> which is published by <a href="https://www.sciencedirect.com/journal/energy" target="_blank">Energy</a> and is the <strong>Highly Cited Paper</strong> in 2023, Web of Science.
+    Check out our paper <a href="https://www.sciencedirect.com/science/article/pii/S0360544222024665" target="_blank">Here</a>, published by <a href="https://www.sciencedirect.com/journal/energy" target="_blank">Energy</a> and is the <strong>Highly Cited Paper</strong> in 2023, Web of Science.
     </p>
 </div>
 ---
