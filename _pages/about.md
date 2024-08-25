@@ -139,7 +139,9 @@ My research centers on the integration of advanced physics-based and machine lea
 </div>
 ---
 
-<h2 id="projects">Publications</h2>
+<h2 id="publications">Publications</h2>
+<p>My journal and conference publications are listed below. For a brief summary of each work, please refer to the <a href="#projects">Projects</a> section on this page.</p>
+
 ## Journal
 - **Xu, J.**, Demirer, N., Pho, V., Tian, K., Zhang, H., Bhaidasna, K., Darbe, R. and Chen, D., 2024. Advancing real-time drilling trajectory prediction with an efficient nonlinear DDE model and online parameter estimation. *Geoenergy Science and Engineering, 238, p.212829.*
 
