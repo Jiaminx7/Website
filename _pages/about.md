@@ -24,7 +24,10 @@ My research centers on the integration of advanced physics-based and machine lea
 </div>
 
 ### 1.2 Fast Real Time Detection System
-Coming soon...
+<div style="display: flex; align-items: center;">
+    <img src="https://jiaminx7.github.io/Website/images/Phase_Portrait.gif" alt="Phase" style="margin-right: 15px; width: 400px;">
+    <p>Phase portrait of a hydraulic system. Paper coming soon...</p>
+</div>
 <div style="clear:both;"></div>
 
 ## 2 Modeling, Estimation, and Control of Directional Drilling
