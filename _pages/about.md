@@ -17,6 +17,7 @@ My research centers on the integration of advanced physics-based and machine lea
 
 ## 1. Modeling, Estimation, and Control of Directional Drilling
 <img src="https://jiaminx7.github.io/Website/images/Model.gif" alt="MECC_2023" style="width: 800px;">
+<div style="clear:both;"></div>
 
 ### 1.1 Model Validations
 <img src="https://jiaminx7.github.io/Website/images/Comparison.gif" alt="MECC_2023" style="float: left; margin-right: 15px; width: 400px;">
