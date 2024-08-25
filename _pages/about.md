@@ -35,7 +35,7 @@ My research centers on the integration of advanced physics-based and machine lea
     <img src="https://jiaminx7.github.io/Website/images/Comparison.gif" alt="MECC_2023" style="margin-right: 15px; width: 400px;">
     <p>Compared and generalized linear/nonlinear DDE models for borehole propagation using experimental data. 
 
-    Check out our paper [Here](https://asmedigitalcollection.asme.org/lettersdynsys/article-abstract/3/2/021007/1166902/Experimentally-Validated-Nonlinear-Delayed?redirectedFrom=fulltext), which is the Best Student Paper Finalist at Modelling, Estimation, and Control Conference ([MECC 2023](https://mecc2023.a2c2.org/)).
+    Check out our paper <a href="https://asmedigitalcollection.asme.org/lettersdynsys/article-abstract/3/2/021007/1166902/Experimentally-Validated-Nonlinear-Delayed?redirectedFrom=fulltext" target="_blank">Here</a>, which is the Best Student Paper Finalist at Modelling, Estimation, and Control Conference (<a href="https://mecc2023.a2c2.org/" target="_blank">MECC 2023</a>).
     </p>
 </div>
 
@@ -46,7 +46,7 @@ My research centers on the integration of advanced physics-based and machine lea
     <img src="https://jiaminx7.github.io/Website/images/AIM.png" alt="AIM" style="margin-right: 15px; width: 400px;">
     <p>A data driven approach to approximate the complex nonlinear DDE model by using the Sparse Identification of Nonlinear Dynamics (SINDy) method. 
 
-    Check out our paper [Here](https://ras.papercept.net/images/temp/AIM/files/0221.pdf) which is published by IEEE/ASME International Conference on Advanced Intelligent Mechatronics ([AIM 2024])(https://www.aim2024.org/).
+    Check out our paper <a href="https://ras.papercept.net/images/temp/AIM/files/0221.pdf" target="_blank">Here</a> which is published by IEEE/ASME International Conference on Advanced Intelligent Mechatronics (<a href="https://www.aim2024.org/" target="_blank">AIM 2024</a>).
     </p>
 </div>
 
@@ -55,7 +55,7 @@ My research centers on the integration of advanced physics-based and machine lea
     <img src="https://jiaminx7.github.io/Website/images/JPSE.png" alt="JPSE" style="margin-right: 15px; width: 400px;">
     <p>An efficient model that is 80 times faster than the nonlinear DDE model while having high prediction accuracy (maximum error within 2 degrees). 
 
-    Check out our paper [Here](https://www.sciencedirect.com/science/article/pii/S2949891024001994) which is published by [Geoenergy Science and Engineering](https://www.sciencedirect.com/journal/geoenergy-science-and-engineering).
+    Check out our paper <a href="https://www.sciencedirect.com/science/article/pii/S2949891024001994" target="_blank">Here</a> which is published by <a href="https://www.sciencedirect.com/journal/geoenergy-science-and-engineering" target="_blank">Geoenergy Science and Engineering</a>.
     </p>
 </div>
 
@@ -64,7 +64,7 @@ My research centers on the integration of advanced physics-based and machine lea
     <img src="https://jiaminx7.github.io/Website/images/Estimation.png" alt="Estimation" style="margin-right: 15px; width: 400px;">
     <p>A Gradient Descent based method equipped with Line Search to estimate the unknown parameter during drilling. 
 
-    Check out our paper [Here](https://www.sciencedirect.com/science/article/pii/S2949891024001994) which is published by [Geoenergy Science and Engineering](https://www.sciencedirect.com/journal/geoenergy-science-and-engineering).
+    Check out our paper <a href="https://www.sciencedirect.com/science/article/pii/S2949891024001994" target="_blank">Here</a> which is published by <a href="https://www.sciencedirect.com/journal/geoenergy-science-and-engineering" target="_blank">Geoenergy Science and Engineering</a>.
     </p>
 </div>
 
@@ -73,7 +73,7 @@ My research centers on the integration of advanced physics-based and machine lea
     <img src="https://jiaminx7.github.io/Website/images/MPC.png" alt="MPC" style="margin-right: 15px; width: 400px;">
     <p>A Model Predictive Controller for directional drilling by using the nonlinear DDE model. 
 
-    Paper accepted by Modelling, Estimation, and Control Conference ([MECC 2024](https://mecc2024.a2c2.org/)).
+    Paper accepted by Modelling, Estimation, and Control Conference (<a href="https://mecc2024.a2c2.org/" target="_blank">MECC 2024</a>).
     </p>
 </div>
 
@@ -82,7 +82,7 @@ My research centers on the integration of advanced physics-based and machine lea
 ## 3 Optimization Solver Package
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
     <img src="https://jiaminx7.github.io/Website/images/optimization.png" alt="Optimization" style="margin-right: 15px; width: 400px;">
-    <p>RaghuRobi, named after one of my favorite instructors [Dr. Bollapragada](https://oden.utexas.edu/people/directory/Raghu-Bollapragada/), is a software package for solving unconstrained optimization problems with methods such as Gradient Descent, Newton-CG, and BFGS.
+    <p>RaghuRobi, named after one of my favorite instructors <a href="https://oden.utexas.edu/people/directory/Raghu-Bollapragada/" target="_blank">Dr. Bollapragada</a>, is a software package for solving unconstrained optimization problems with methods such as Gradient Descent, Newton-CG, and BFGS.
     </p>
 </div>
 
