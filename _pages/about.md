@@ -13,7 +13,7 @@ Hello. I am a third year Ph.D. student in the [Walker Department of Mechanical E
 
 My research centers on the integration of advanced physics-based and machine learning techniques to address complex challenges in both academia and industry. I specialize in the modeling, estimation, and control of diverse systems, with applications ranging from drilling automation, vehicle engineering, to fluid mechanics. My work aims to bridge the gap between theoretical advancements and practical implementations, driving innovation in different fields.
 
-# Projects {#featured-projects}
+# Projects {#projects}
 
 ## 1 Event Detection System for Driling
 
@@ -139,7 +139,7 @@ My research centers on the integration of advanced physics-based and machine lea
 </div>
 ---
 
-# Publications {#Publications}
+# Publications {#publications}
 ## Journal
 - **Xu, J.**, Demirer, N., Pho, V., Tian, K., Zhang, H., Bhaidasna, K., Darbe, R. and Chen, D., 2024. Advancing real-time drilling trajectory prediction with an efficient nonlinear DDE model and online parameter estimation. *Geoenergy Science and Engineering, 238, p.212829.*
 
@@ -152,10 +152,12 @@ My research centers on the integration of advanced physics-based and machine lea
 - Fan R, Chang G, **Xu, Y.**, **Xu, J.** Multi-objective optimization of graded catalyst layer to improve performance and current density uniformity of a PEMFC. *Energy, 2023 Jan 1;262:125580.* (Highly Cited Paper in 2023, 40 citations so far)
 
 - Ma R, **Xu, J.**, Li J, Yuan H, Zhang C. A multi-conditions speed predictor based on a DK clustering model. *Journal of Chongqing University.*
+
 ---
 
 ## Conference
 - **Xu, J.**, Demirer, N., Pho, V., Tian, K., Zhang, H., Bhaidasna, K., Darbe, R. and Chen, D., 2024. Nonlinear Model Predictive Control for Directional Drilling Applications. *(Accepted).*
 
 - **Xu, J.**, Demirer, N., Pho, V., Tian, K., Zhang, H., Bhaidasna, K., Darbe, R. and Chen, D., 2024. Data-Driven Modeling of Nonlinear Delay Differential Equations with Gap Effects Using SINDy. *(Accepted).*
+
 ---
