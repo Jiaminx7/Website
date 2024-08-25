@@ -35,10 +35,10 @@ Check out our paper [Here](https://asmedigitalcollection.asme.org/lettersdynsys/
 <div style="clear:both;"></div>
 
 #### Physics-based method
-<img src="https://jiaminx7.github.io/Website/images/Figure2.pdf" alt="JPSE" style="float: left; margin-right: 15px; width: 400px;">
-A data driven approach to approximate the complex nonlinear DDE model by using the Sparse Identification of Nonlinear Dynamics (SINDy) method. 
+<img src="https://jiaminx7.github.io/Website/images/JPSE.png" alt="JPSE" style="float: left; margin-right: 15px; width: 400px;">
+An efficient model that is 80 times faster than the nonlinear DDE model while having high prediction accuracy (maximum error within 2 degrees compared to experiment data). 
 
-Check out our paper [Here](https://www.sciencedirect.com/science/article/pii/S2949891024001994) which is published by [2024 IEEE/ASME International Conference on Advanced Intelligent Mechatronics (AIM).](https://www.aim2024.org/).
+Check out our paper [Here](https://www.sciencedirect.com/science/article/pii/S2949891024001994) which is published by [eoenergy Science and Engineering](https://www.sciencedirect.com/journal/geoenergy-science-and-engineering).
 
 <div style="clear:both;"></div>
 
