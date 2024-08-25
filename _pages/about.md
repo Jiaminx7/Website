@@ -16,12 +16,13 @@ My research centers on the integration of advanced physics-based and machine lea
 # Featured Projects
 
 ## 1 Event Detection System for Driling
----
+
 ### 1.1 Two Phase Flow Simulator
 <div style="display: flex; align-items: center;">
     <img src="https://jiaminx7.github.io/Website/images/DFM.gif" alt="DFM" style="margin-right: 15px; width: 400px;">
     <p>3 nonlinear PDEs with 4 closure equations to simulate the gas bubble propagation inside the wellbore.</p>
 </div>
+---
 
 ### 1.2 Fast Real Time Detection System
 <div style="display: flex; align-items: center;">
@@ -29,9 +30,10 @@ My research centers on the integration of advanced physics-based and machine lea
     <p>Phase portrait of a hydraulic system. Paper coming soon...</p>
 </div>
 <div style="clear:both;"></div>
+---
 
 ## 2 Modeling, Estimation, and Control of Directional Drilling
----
+
 <div style="text-align: center;">
     <img src="https://jiaminx7.github.io/Website/images/Model.gif" alt="MECC_2023" style="width: 800px;">
 </div>
@@ -44,10 +46,10 @@ My research centers on the integration of advanced physics-based and machine lea
     <p>
         Compared and generalized linear/nonlinear DDE models for borehole propagation using experimental data.
         Check out our paper <a href="https://asmedigitalcollection.asme.org/lettersdynsys/article-abstract/3/2/021007/1166902/Experimentally-Validated-Nonlinear-Delayed?redirectedFrom=fulltext" target="_blank">Here</a>,
-        which is the Best Student Paper Finalist at Modelling, Estimation, and Control Conference (<a href="https://mecc2023.a2c2.org/" target="_blank">MECC 2023</a>).
+        which is the **Best Student Paper Finalist** at Modelling, Estimation, and Control Conference (<a href="https://mecc2023.a2c2.org/" target="_blank">MECC 2023</a>).
     </p>
 </div>
-
+---
 
 ### 2.2 Model Improvements
 
@@ -59,7 +61,7 @@ My research centers on the integration of advanced physics-based and machine lea
         Check out our paper <a href="https://ras.papercept.net/images/temp/AIM/files/0221.pdf" target="_blank">Here</a> which is published by IEEE/ASME International Conference on Advanced Intelligent Mechatronics (<a href="https://www.aim2024.org/" target="_blank">AIM 2024</a>).
     </p>
 </div>
-
+---
 
 #### Physics-based method
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
@@ -69,6 +71,7 @@ My research centers on the integration of advanced physics-based and machine lea
     Check out our paper <a href="https://www.sciencedirect.com/science/article/pii/S2949891024001994" target="_blank">Here</a> which is published by <a href="https://www.sciencedirect.com/journal/geoenergy-science-and-engineering" target="_blank">Geoenergy Science and Engineering</a>.
     </p>
 </div>
+---
 
 ### 2.3 Parameter Estimation
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
@@ -78,6 +81,7 @@ My research centers on the integration of advanced physics-based and machine lea
     Check out our paper <a href="https://www.sciencedirect.com/science/article/pii/S2949891024001994" target="_blank">Here</a> which is published by <a href="https://www.sciencedirect.com/journal/geoenergy-science-and-engineering" target="_blank">Geoenergy Science and Engineering</a>.
     </p>
 </div>
+---
 
 ### 2.4 Model Predictive Control
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
@@ -87,7 +91,6 @@ My research centers on the integration of advanced physics-based and machine lea
     Paper accepted by Modelling, Estimation, and Control Conference (<a href="https://mecc2024.a2c2.org/" target="_blank">MECC 2024</a>).
     </p>
 </div>
-
 ---
 
 ## 3 Optimization Solver Package
@@ -96,4 +99,23 @@ My research centers on the integration of advanced physics-based and machine lea
     <p>RaghuRobi, named after one of my favorite instructors <a href="https://oden.utexas.edu/people/directory/Raghu-Bollapragada/" target="_blank">Dr. Bollapragada</a>, is a software package for solving unconstrained optimization problems with methods such as Gradient Descent, Newton-CG, and BFGS.
     </p>
 </div>
+---
 
+## 4 Flow Structure Interaction
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+    <img src="https://jiaminx7.github.io/Website/images/canopy.png" alt="FSI" style="margin-right: 15px; width: 400px;">
+    <p>Experimental investigation of turbulence dynamics and transport modulated by canopies.
+    </p>
+</div>
+---
+
+## 5 Vehicle Engineering
+### 5.1 Fuel Cells
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+    <img src="https://jiaminx7.github.io/Website/images/FuelCell.png" alt="Fuelcell" style="margin-right: 15px; width: 400px;">
+    <p>Optimization of graded catalyst layer to improve fuel cell performance. 
+
+    Check out our paper <a href="https://www.sciencedirect.com/science/article/pii/S0360544222024665" target="_blank">Here</a> which is published by <a href="https://www.sciencedirect.com/journal/energy" target="_blank">Energy</a> and is the **Highly Cited Paper** in 2023, Web of Science.
+    </p>
+</div>
+---
