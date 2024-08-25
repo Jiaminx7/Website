@@ -16,6 +16,7 @@ My research centers on the integration of advanced physics-based and machine lea
 # Featured Project
 
 ## 1 Event Detection System for Driling
+---
 ### 1.1 Two Phase Flow Simulator
 <div style="display: flex; align-items: center;">
     <img src="https://jiaminx7.github.io/Website/images/DFM.gif" alt="DFM" style="margin-right: 15px; width: 400px;">
@@ -34,44 +35,67 @@ Compared and generalized linear/nonlinear DDE models for borehole propagation us
 Check out our paper [Here](https://asmedigitalcollection.asme.org/lettersdynsys/article-abstract/3/2/021007/1166902/Experimentally-Validated-Nonlinear-Delayed?redirectedFrom=fulltext), which is the Best Student Paper Finalist at Modelling, Estimation, and Control Conference ([MECC 2023](https://mecc2023.a2c2.org/)).
 
 <div style="clear:both;"></div>
-
-### 2.2 Model Imrprovements
-#### Machine Learning approach
-<img src="https://jiaminx7.github.io/Website/images/AIM.png" alt="AIM" style="float: left; margin-right: 15px; width: 400px;">
-A data driven approach to approximate the complex nonlinear DDE model by using the Sparse Identification of Nonlinear Dynamics (SINDy) method. 
-
-Check out our paper [Here](https://ras.papercept.net/images/temp/AIM/files/0221.pdf) which is published by IEEE/ASME International Conference on Advanced Intelligent Mechatronics ([AIM 2024])(https://www.aim2024.org/).
-
+## 2 Modeling, Estimation, and Control of Directional Drilling
+---
+<div style="text-align: center;">
+    <img src="https://jiaminx7.github.io/Website/images/Model.gif" alt="MECC_2023" style="width: 800px;">
+</div>
 <div style="clear:both;"></div>
+
+### 2.1 Model Validations
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+    <img src="https://jiaminx7.github.io/Website/images/Comparison.gif" alt="MECC_2023" style="margin-right: 15px; width: 400px;">
+    <p>Compared and generalized linear/nonlinear DDE models for borehole propagation using experimental data. 
+
+    Check out our paper [Here](https://asmedigitalcollection.asme.org/lettersdynsys/article-abstract/3/2/021007/1166902/Experimentally-Validated-Nonlinear-Delayed?redirectedFrom=fulltext), which is the Best Student Paper Finalist at Modelling, Estimation, and Control Conference ([MECC 2023](https://mecc2023.a2c2.org/)).
+    </p>
+</div>
+
+### 2.2 Model Improvements
+
+#### Machine Learning approach
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+    <img src="https://jiaminx7.github.io/Website/images/AIM.png" alt="AIM" style="margin-right: 15px; width: 400px;">
+    <p>A data driven approach to approximate the complex nonlinear DDE model by using the Sparse Identification of Nonlinear Dynamics (SINDy) method. 
+
+    Check out our paper [Here](https://ras.papercept.net/images/temp/AIM/files/0221.pdf) which is published by IEEE/ASME International Conference on Advanced Intelligent Mechatronics ([AIM 2024])(https://www.aim2024.org/).
+    </p>
+</div>
 
 #### Physics-based method
-<img src="https://jiaminx7.github.io/Website/images/JPSE.png" alt="JPSE" style="float: left; margin-right: 15px; width: 400px;">
-An efficient model that is 80 times faster than the nonlinear DDE model while having high prediction accuracy (maximum error within 2 degrees). 
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+    <img src="https://jiaminx7.github.io/Website/images/JPSE.png" alt="JPSE" style="margin-right: 15px; width: 400px;">
+    <p>An efficient model that is 80 times faster than the nonlinear DDE model while having high prediction accuracy (maximum error within 2 degrees). 
 
-Check out our paper [Here](https://www.sciencedirect.com/science/article/pii/S2949891024001994) which is published by [eoenergy Science and Engineering](https://www.sciencedirect.com/journal/geoenergy-science-and-engineering).
-
-<div style="clear:both;"></div>
+    Check out our paper [Here](https://www.sciencedirect.com/science/article/pii/S2949891024001994) which is published by [Geoenergy Science and Engineering](https://www.sciencedirect.com/journal/geoenergy-science-and-engineering).
+    </p>
+</div>
 
 ### 2.3 Parameter Estimation
-<img src="https://jiaminx7.github.io/Website/images/Estimation.png" alt="Estimation" style="float: left; margin-right: 15px; width: 400px;">
-A Gradient Descent based method equipped with Line Search to estimate the unknown parameter during drilling. 
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+    <img src="https://jiaminx7.github.io/Website/images/Estimation.png" alt="Estimation" style="margin-right: 15px; width: 400px;">
+    <p>A Gradient Descent based method equipped with Line Search to estimate the unknown parameter during drilling. 
 
-Check out our paper [Here](https://www.sciencedirect.com/science/article/pii/S2949891024001994) which is published by [Geoenergy Science and Engineering](https://www.sciencedirect.com/journal/geoenergy-science-and-engineering).
-
-<div style="clear:both;"></div>
+    Check out our paper [Here](https://www.sciencedirect.com/science/article/pii/S2949891024001994) which is published by [Geoenergy Science and Engineering](https://www.sciencedirect.com/journal/geoenergy-science-and-engineering).
+    </p>
+</div>
 
 ### 2.4 Model Predictive Control
-<img src="https://jiaminx7.github.io/Website/images/MPC.png" alt="MPC" style="float: left; margin-right: 15px; width: 400px;">
-A Model Predictive Controller for directional drilling by using the nonlinear DDE model. 
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+    <img src="https://jiaminx7.github.io/Website/images/MPC.png" alt="MPC" style="margin-right: 15px; width: 400px;">
+    <p>A Model Predictive Controller for directional drilling by using the nonlinear DDE model. 
 
-Paper accepted by Modelling, Estimation, and Control Conference ([MECC 2024](https://mecc2024.a2c2.org/)).
+    Paper accepted by Modelling, Estimation, and Control Conference ([MECC 2024](https://mecc2024.a2c2.org/)).
+    </p>
+</div>
 
-<div style="clear:both;"></div>
 ---
 
 ## 3 Optimization Solver Package
-<img src="https://jiaminx7.github.io/Website/images/optimization.png" alt="Optimization" style="float: left; margin-right: 15px; width: 400px;">
-RaghuRobi, named after one of my favorite instructor [Dr. Bollapragada](https://oden.utexas.edu/people/directory/Raghu-Bollapragada/), is a software package for solving unconstrained optimization problems with methods such as Gradient Descent, Newton-CG, and BFGS.
-<div style="clear:both;"></div>
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+    <img src="https://jiaminx7.github.io/Website/images/optimization.png" alt="Optimization" style="margin-right: 15px; width: 400px;">
+    <p>RaghuRobi, named after one of my favorite instructors [Dr. Bollapragada](https://oden.utexas.edu/people/directory/Raghu-Bollapragada/), is a software package for solving unconstrained optimization problems with methods such as Gradient Descent, Newton-CG, and BFGS.
+    </p>
+</div>
 
 
