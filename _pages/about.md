@@ -57,6 +57,7 @@ Coming soon...
     </p>
 </div>
 
+
 #### Physics-based method
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
     <img src="https://jiaminx7.github.io/Website/images/JPSE.png" alt="JPSE" style="margin-right: 15px; width: 400px;">
