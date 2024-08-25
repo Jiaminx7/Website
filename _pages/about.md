@@ -14,7 +14,7 @@ Hello. I am a third year Ph.D. student in the [Walker Department of Mechanical E
 My research centers on the integration of advanced physics-based and machine learning techniques to address complex challenges in both academia and industry. I specialize in the modeling, estimation, and control of diverse systems, with applications ranging from drilling automation, vehicle engineering, to fluid mechanics. My work aims to bridge the gap between theoretical advancements and practical implementations, driving innovation in different fields.
 
 # Featured Project
-======
+
 ## 1 Modeling, Estimation, and Control of Directional Drilling
 ---
 <img src="https://jiaminx7.github.io/Website/images/Model.gif" alt="MECC_2023" style="width: 800px;">
