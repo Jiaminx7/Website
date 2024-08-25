@@ -14,7 +14,6 @@ Hello. I am a third year Ph.D. student in the [Walker Department of Mechanical E
 My research centers on the integration of advanced physics-based and machine learning techniques to address complex challenges in both academia and industry. I specialize in the modeling, estimation, and control of diverse systems, with applications ranging from drilling automation, vehicle engineering, to fluid mechanics. My work aims to bridge the gap between theoretical advancements and practical implementations, driving innovation in different fields.
 
 <h2 id="projects">Projects</h2>
-<p>
   
 ## 1 Event Detection System for Driling
 
@@ -139,30 +138,33 @@ My research centers on the integration of advanced physics-based and machine lea
     </p>
 </div>
 ---
-</p>
+
 
 <h2 id="publications">Publications</h2>
-<p>My journal and conference publications are listed below. For a brief summary of each work, please refer to the <a href="#projects">Projects</a> section on this page.
+<p>My journal and conference publications are listed below. For a brief summary of each work, please refer to the <a href="#projects">Projects</a> section on this page.</p>
 
-## Journal
-- **Xu, J.**, Demirer, N., Pho, V., Tian, K., Zhang, H., Bhaidasna, K., Darbe, R. and Chen, D., 2024. Advancing real-time drilling trajectory prediction with an efficient nonlinear DDE model and online parameter estimation. *Geoenergy Science and Engineering, 238, p.212829.*
+<p>Jump to: <a href="#journal">Journal</a> | <a href="#conference">Conference</a></p>
 
-- **Xu, J**, Keller A, Nazli D, Zhang H, Tian K, Bhaidasna K, Darbe R, Chen D. Experimentally Validated Nonlinear Delayed Differential Approach to Model Borehole Propagation for Directional Drilling. *ASME Letters in Dynamic Systems and Control, ALDSC-23-1030*. (Best Student Paper Finalist, MECC 2023)
+<h3 id="journal">Journal</h3>
+<ul>
+  <li><strong>Xu, J.</strong>, Demirer, N., Pho, V., Tian, K., Zhang, H., Bhaidasna, K., Darbe, R. and Chen, D., 2024. Advancing real-time drilling trajectory prediction with an efficient nonlinear DDE model and online parameter estimation. <em>Geoenergy Science and Engineering, 238, p.212829.</em></li>
+  
+  <li><strong>Xu, J</strong>, Keller A, Nazli D, Zhang H, Tian K, Bhaidasna K, Darbe R, Chen D. Experimentally Validated Nonlinear Delayed Differential Approach to Model Borehole Propagation for Directional Drilling. <em>ASME Letters in Dynamic Systems and Control, ALDSC-23-1030</em>. (Best Student Paper Finalist, MECC 2023)</li>
+  
+  <li><strong>Xu, J.</strong>, Zhang C, Wan Z, Chen X, Chan SH, Tu Z. Progress and perspectives of integrated thermal management systems in PEM fuel cell vehicles: A review. <em>Renewable and Sustainable Energy Reviews, 2022;155:111908.</em> (Highly Cited Paper in 2022 and 2023, Web of Science. 149 citations so far)</li>
+  
+  <li><strong>Xu, J.</strong>, Zhang C, Fan R, Bao H, Wang Y, Huang S, et al. Modelling and control of vehicle integrated thermal management system of PEM fuel cell vehicle. <em>Energy, 2020;199:117495.</em> (117 citations so far)</li>
+  
+  <li>Fan R, Chang G, <strong>Xu, Y.</strong>, <strong>Xu, J.</strong> Multi-objective optimization of graded catalyst layer to improve performance and current density uniformity of a PEMFC. <em>Energy, 2023 Jan 1;262:125580.</em> (Highly Cited Paper in 2023, 40 citations so far)</li>
+  
+  <li>Ma R, <strong>Xu, J.</strong>, Li J, Yuan H, Zhang C. A multi-conditions speed predictor based on a DK clustering model. <em>Journal of Chongqing University.</em></li>
+</ul>
 
-- **Xu, J.**, Zhang C, Wan Z, Chen X, Chan SH, Tu Z. Progress and perspectives of integrated thermal management systems in PEM fuel cell vehicles: A review. *Renewable and Sustainable Energy Reviews, 2022;155:111908.* (Highly Cited Paper in 2022 and 2023, Web of Science. 149 citations so far)
+<hr>
 
-- **Xu, J.**, Zhang C, Fan R, Bao H, Wang Y, Huang S, et al. Modelling and control of vehicle integrated thermal management system of PEM fuel cell vehicle. *Energy, 2020;199:117495.* (117 citations so far)
-
-- Fan R, Chang G, **Xu, Y.**, **Xu, J.** Multi-objective optimization of graded catalyst layer to improve performance and current density uniformity of a PEMFC. *Energy, 2023 Jan 1;262:125580.* (Highly Cited Paper in 2023, 40 citations so far)
-
-- Ma R, **Xu, J.**, Li J, Yuan H, Zhang C. A multi-conditions speed predictor based on a DK clustering model. *Journal of Chongqing University.*
-
----
-
-## Conference
-- **Xu, J.**, Demirer, N., Pho, V., Tian, K., Zhang, H., Bhaidasna, K., Darbe, R. and Chen, D., 2024. Nonlinear Model Predictive Control for Directional Drilling Applications. *(Accepted).*
-
-- **Xu, J.**, Demirer, N., Pho, V., Tian, K., Zhang, H., Bhaidasna, K., Darbe, R. and Chen, D., 2024. Data-Driven Modeling of Nonlinear Delay Differential Equations with Gap Effects Using SINDy. *(Accepted).*
-
----
-</p>
+<h3 id="conference">Conference</h3>
+<ul>
+  <li><strong>Xu, J.</strong>, Demirer, N., Pho, V., Tian, K., Zhang, H., Bhaidasna, K., Darbe R. and Chen, D., 2024. Nonlinear Model Predictive Control for Directional Drilling Applications. <em>(Accepted).</em></li>
+  
+  <li><strong>Xu, J.</strong>, Demirer, N., Pho, V., Tian, K., Zhang, H., Bhaidasna, K., Darbe R. and Chen, D., 2024. Data-Driven Modeling of Nonlinear Delay Differential Equations with Gap Effects Using SINDy. <em>(Accepted).</em></li>
+</ul>
