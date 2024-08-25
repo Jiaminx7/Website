@@ -50,10 +50,10 @@ Coming soon...
 
 #### Machine Learning approach
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
-    <img src="https://jiaminx7.github.io/Website/images/AIM.png" alt="AIM" style="margin-right: 15px; width: 400px;">
-    <p>A data driven approach to approximate the complex nonlinear DDE model by using the Sparse Identification of Nonlinear Dynamics (SINDy) method. 
-
-    Check out our paper <a href="https://ras.papercept.net/images/temp/AIM/files/0221.pdf" target="_blank">Here</a> which is published by IEEE/ASME International Conference on Advanced Intelligent Mechatronics (<a href="https://www.aim2024.org/" target="_blank">AIM 2024</a>).
+    <img src="https://jiaminx7.github.io/Website/images/AIM.png" alt="AIM" style="width: 400px; height: auto; margin-right: 15px;">
+    <p>
+        A data driven approach to approximate the complex nonlinear DDE model by using the Sparse Identification of Nonlinear Dynamics (SINDy) method. 
+        Check out our paper <a href="https://ras.papercept.net/images/temp/AIM/files/0221.pdf" target="_blank">Here</a> which is published by IEEE/ASME International Conference on Advanced Intelligent Mechatronics (<a href="https://www.aim2024.org/" target="_blank">AIM 2024</a>).
     </p>
 </div>
 
