@@ -125,7 +125,7 @@ My research centers on the integration of advanced physics-based and machine lea
     <img src="https://jiaminx7.github.io/Website/images/ITMS.png" alt="ITMS" style="margin-right: 15px; width: 400px;">
     <p>Integrated thermal management of fuel cell vehicles. 
 
-    Check out our <a href="https://www.sciencedirect.com/science/article/pii/S0360544220306022" target="_blank">Paper 1</a> and <a href="<a href="https://www.sciencedirect.com/science/article/pii/S0360544220306022" target="_blank">Paper 1</a>" target="_blank">Paper 2</a> published by <a href="https://www.sciencedirect.com/journal/energy" target="_blank">Energy</a> and <a href="https://www.sciencedirect.com/journal/renewable-and-sustainable-energy-reviews" target="_blank">Renewable and Sustainable Energy Reviews
+    Check out our <a href="https://www.sciencedirect.com/science/article/pii/S0360544220306022" target="_blank">Paper 1</a> and <a href="https://www.sciencedirect.com/science/article/pii/S0360544220306022" target="_blank">Paper 2</a>, published by <a href="https://www.sciencedirect.com/journal/energy" target="_blank">Energy</a> and <a href="https://www.sciencedirect.com/journal/renewable-and-sustainable-energy-reviews" target="_blank">Renewable and Sustainable Energy Reviews
 </a>, respecitively. The second paper is the <strong>Highly Cited Paper</strong> in 2022, 2023, and 2024, <a href="https://www-webofscience-com.ezproxy.lib.utexas.edu/wos/woscc/summary/ced4c522-5b41-43b6-a82c-8015f5c083e1-0103f2b492/relevance/1" target="_blank">Web of Science</a> .
     </p>
 </div>
