@@ -23,6 +23,10 @@ My research centers on the integration of advanced physics-based and machine lea
     <p>3 nonlinear PDEs with 4 closure equations to simulate the gas bubble propagation inside the wellbore.</p>
 </div>
 
+### 1.2 Fast Real Time Detection System
+Coming soon...
+<div style="clear:both;"></div>
+
 ## 2 Modeling, Estimation, and Control of Directional Drilling
 ---
 <div style="text-align: center;">
