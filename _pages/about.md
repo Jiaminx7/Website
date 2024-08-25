@@ -38,7 +38,7 @@ Check out our paper [Here](https://ras.papercept.net/images/temp/AIM/files/0221.
 
 #### Physics-based method
 <img src="https://jiaminx7.github.io/Website/images/JPSE.png" alt="JPSE" style="float: left; margin-right: 15px; width: 400px;">
-An efficient model that is 80 times faster than the nonlinear DDE model while having high prediction accuracy (maximum error within 2 degrees compared to experiment data). 
+An efficient model that is 80 times faster than the nonlinear DDE model while having high prediction accuracy (maximum error within 2 degrees). 
 
 Check out our paper [Here](https://www.sciencedirect.com/science/article/pii/S2949891024001994) which is published by [eoenergy Science and Engineering](https://www.sciencedirect.com/journal/geoenergy-science-and-engineering).
 
