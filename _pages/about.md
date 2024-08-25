@@ -32,7 +32,7 @@ Check out our paper [Here](https://asmedigitalcollection.asme.org/lettersdynsys/
 <img src="https://jiaminx7.github.io/Website/images/AIM.png" alt="AIM" style="float: left; margin-right: 15px; width: 400px;">
 A data driven approach to approximate the complex nonlinear DDE model by using the Sparse Identification of Nonlinear Dynamics (SINDy) method. 
 
-Check out our paper [Here](https://ras.papercept.net/images/temp/AIM/files/0221.pdf) which is published by [2024 IEEE/ASME International Conference on Advanced Intelligent Mechatronics (AIM)](https://www.aim2024.org/).
+Check out our paper [Here](https://ras.papercept.net/images/temp/AIM/files/0221.pdf) which is published by IEEE/ASME International Conference on Advanced Intelligent Mechatronics ([AIM 2024])(https://www.aim2024.org/).
 
 <div style="clear:both;"></div>
 
@@ -41,6 +41,22 @@ Check out our paper [Here](https://ras.papercept.net/images/temp/AIM/files/0221.
 An efficient model that is 80 times faster than the nonlinear DDE model while having high prediction accuracy (maximum error within 2 degrees). 
 
 Check out our paper [Here](https://www.sciencedirect.com/science/article/pii/S2949891024001994) which is published by [eoenergy Science and Engineering](https://www.sciencedirect.com/journal/geoenergy-science-and-engineering).
+
+<div style="clear:both;"></div>
+
+### 1.3 Parameter Estimation
+<img src="https://jiaminx7.github.io/Website/images/Estimation.png" alt="Estimation" style="float: left; margin-right: 15px; width: 400px;">
+A Gradient Descent based method equipped with Line Search to estimate the unknown parameter during drilling. 
+
+Check out our paper [Here](https://www.sciencedirect.com/science/article/pii/S2949891024001994) which is published by [eoenergy Science and Engineering](https://www.sciencedirect.com/journal/geoenergy-science-and-engineering).
+
+<div style="clear:both;"></div>
+
+### 1.4 Model Predictive Control
+<img src="https://jiaminx7.github.io/Website/images/MPC.tiff" alt="MPC" style="float: left; margin-right: 15px; width: 400px;">
+A Model Predictive Controller for directional drilling by using the nonlinear DDE model. 
+
+Paper accepted by Modelling, Estimation, and Control Conference ([MECC 2024](https://mecc2024.a2c2.org/)).
 
 <div style="clear:both;"></div>
 
