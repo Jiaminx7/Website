@@ -16,31 +16,7 @@ My research centers on the integration of advanced physics-based and machine lea
 <h2 id="projects">Projects</h2>
 
 <!-- Table of Contents for Projects -->
-<ul>
-  <li><a href="#event-detection">1 Event Detection System for Drilling</a></li>
-  <li><a href="#directional-drilling">2 Modeling, Estimation, and Control of Directional Drilling</a>
-    <ul>
-      <li><a href="#model-validations">2.1 Model Validations</a></li>
-      <li><a href="#model-improvements">2.2 Model Improvements</a>
-        <ul>
-          <li><a href="#ml-approach">Machine Learning approach</a></li>
-          <li><a href="#physics-based-method">Physics-based method</a></li>
-        </ul>
-      </li>
-      <li><a href="#parameter-estimation">2.3 Parameter Estimation</a></li>
-      <li><a href="#model-predictive-control">2.4 Model Predictive Control</a></li>
-    </ul>
-  </li>
-  <li><a href="#optimization">3 Optimization Solver Package</a></li>
-  <li><a href="#flow-structure-interaction">4 Flow Structure Interaction</a></li>
-  <li><a href="#vehicle-engineering">5 Vehicle Engineering</a>
-    <ul>
-      <li><a href="#fuel-cells">5.1 Fuel Cells</a></li>
-      <li><a href="#thermal-management">5.2 Vehicle Thermal Management</a></li>
-      <li><a href="#formula-student">5.3 Formula Student China</a></li>
-    </ul>
-  </li>
-</ul>
+<p>Jump to: <a href="#event-detection">Hydraulics</a> | <a href="#directional-drilling">Directional Drilling</a> | <a href="#optimization">Optimization</a> | <a href="#Flow Structure Interaction">Turbulence</a> | <a href="#vehicle-engineering">Vehicles</a></p>
 
 <!-- Begin Projects Content -->
 <h3 id="event-detection">1 Event Detection System for Drilling</h3>
