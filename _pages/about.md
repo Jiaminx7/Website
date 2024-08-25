@@ -13,9 +13,10 @@ Hello. I am a third year Ph.D. student in the [Walker Department of Mechanical E
 
 My research centers on the integration of advanced physics-based and machine learning techniques to address complex challenges in both academia and industry. I specialize in the modeling, estimation, and control of diverse systems, with applications ranging from drilling automation, vehicle engineering, to fluid mechanics. My work aims to bridge the gap between theoretical advancements and practical implementations, driving innovation in different fields.
 
-# Featured Research
-
-## 1. Modeling, Estimation, and Control of Directional Drilling
+# Featured Project
+======
+## 1 Modeling, Estimation, and Control of Directional Drilling
+---
 <img src="https://jiaminx7.github.io/Website/images/Model.gif" alt="MECC_2023" style="width: 800px;">
 <div style="clear:both;"></div>
 
@@ -58,6 +59,12 @@ A Model Predictive Controller for directional drilling by using the nonlinear DD
 
 Paper accepted by Modelling, Estimation, and Control Conference ([MECC 2024](https://mecc2024.a2c2.org/)).
 
+<div style="clear:both;"></div>
+---
+
+## 2 Optimization Solver Package
+<img src="https://jiaminx7.github.io/Website/images/Optimization" alt="Optimization" style="float: left; margin-right: 15px; width: 400px;">
+RaghuRobi, named after one of my favorite instructor [Dr. Bollapragada](https://oden.utexas.edu/people/directory/Raghu-Bollapragada/), is a software package for solving unconstrained optimization problems with methods such as Gradient Descent, Newton-CG, and BFGS.
 <div style="clear:both;"></div>
 
 
