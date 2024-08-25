@@ -25,18 +25,6 @@ My research centers on the integration of advanced physics-based and machine lea
 
 ## 2 Modeling, Estimation, and Control of Directional Drilling
 ---
-<img src="https://jiaminx7.github.io/Website/images/Model.gif" alt="MECC_2023" style="width: 800px;">
-<div style="clear:both;"></div>
-
-### 2.1 Model Validations
-<img src="https://jiaminx7.github.io/Website/images/Comparison.gif" alt="MECC_2023" style="float: left; margin-right: 15px; width: 400px;">
-Compared and generalized linear/nonlinear DDE models for borehole propagation using experimental data. 
-
-Check out our paper [Here](https://asmedigitalcollection.asme.org/lettersdynsys/article-abstract/3/2/021007/1166902/Experimentally-Validated-Nonlinear-Delayed?redirectedFrom=fulltext), which is the Best Student Paper Finalist at Modelling, Estimation, and Control Conference ([MECC 2023](https://mecc2023.a2c2.org/)).
-
-<div style="clear:both;"></div>
-## 2 Modeling, Estimation, and Control of Directional Drilling
----
 <div style="text-align: center;">
     <img src="https://jiaminx7.github.io/Website/images/Model.gif" alt="MECC_2023" style="width: 800px;">
 </div>
@@ -97,5 +85,4 @@ Check out our paper [Here](https://asmedigitalcollection.asme.org/lettersdynsys/
     <p>RaghuRobi, named after one of my favorite instructors [Dr. Bollapragada](https://oden.utexas.edu/people/directory/Raghu-Bollapragada/), is a software package for solving unconstrained optimization problems with methods such as Gradient Descent, Newton-CG, and BFGS.
     </p>
 </div>
-
 
