@@ -6,17 +6,17 @@
 
 main:
 
-  - title: "Research"
-    url: /talks/   
+  - title: "Projects"
+    url: /about/#featured-projects
     
   - title: "Publications"
-    url: /publications/
-
-  - title: "Teaching"
-    url: /teaching/    
+    url: /about/#Publications
     
-  # - title: "Portfolio"
-  #   url: /portfolio/
+  - title: "Honors"
+    url: /about/#Honors    
+  
+  - title: "Teaching"
+    url: /about/#Teaching    
 
   - title: "CV"
     url: /files/CV.pdf
