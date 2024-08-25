@@ -20,10 +20,10 @@ My research centers on the integration of advanced physics-based and machine lea
 ### 1.1 Model Validations
 <img src="https://jiaminx7.github.io/Website/images/Comparison.gif" alt="MECC_2023" style="float: left; right: margin-15px; width: 400px;">
 Compared and generalized linear/nonlinear DDE models for borehole propagation using experimental data. 
+
 Check out our paper [Here](https://asmedigitalcollection.asme.org/lettersdynsys/article-abstract/3/2/021007/1166902/Experimentally-Validated-Nonlinear-Delayed?redirectedFrom=fulltext), which is the Best Student Paper Finalist at Modelling, Estimation, and Control Conference ([MECC 2023](https://mecc2023.a2c2.org/)).
 
 <div style="clear:both;"></div>
-
 
 ### 1.2 Model Imrprovements
 <img src="https://jiaminx7.github.io/Website/images/AIM.png" alt="AIM" style="float: left; margin-right: 15px; width: 400px;">
