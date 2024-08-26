@@ -156,7 +156,7 @@ My research centers on the integration of advanced physics-based and machine lea
   
   <li>[<a href="#thermal-management">Overview</a>] | [<a href="https://www.sciencedirect.com/science/article/pii/S1364032121011746">Download</a>] | <strong>Xu J.</strong>, Zhang C, Wan Z, Chen X, Chan SH, Tu Z. Progress and perspectives of integrated thermal management systems in PEM fuel cell vehicles: A review. <em>Renewable and Sustainable Energy Reviews, 2022;155:111908.</em> (<strong>Highly Cited Paper in 2022, 2023 and 2024</strong>, Web of Science).</li>
   
-  <li>[<a href="#thermal-management">Overview</a>] | [<a href="https://www.sciencedirect.com/science/article/pii/S0360544220306022">Download</a>] |<strong>Xu J</strong>, Zhang C, Fan R, Bao H, Wang Y, Huang S, et al. Modelling and control of vehicle integrated thermal management system of PEM fuel cell vehicle. <em>Energy, 2020;199:117495.</em> </li>
+  <li>[<a href="#thermal-management">Overview</a>] | [<a href="https://www.sciencedirect.com/science/article/pii/S0360544220306022">Download</a>] | <strong>Xu J</strong>, Zhang C, Fan R, Bao H, Wang Y, Huang S, et al. Modelling and control of vehicle integrated thermal management system of PEM fuel cell vehicle. <em>Energy, 2020;199:117495.</em> </li>
   
   <li>[<a href="#fuel-cells">Overview</a>] | [<a href="https://www.sciencedirect.com/science/article/pii/S0360544222024665">Download</a>] | Fan R, Chang G, Xu Y, <strong>Xu J.</strong> Multi-objective optimization of graded catalyst layer to improve performance and current density uniformity of a PEMFC. <em>Energy, 2023 Jan 1;262:125580.</em> (<strong>Highly Cited Paper in 2023</strong>)</li>
   
