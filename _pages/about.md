@@ -190,5 +190,5 @@ My research centers on the integration of advanced physics-based and machine lea
 <h2 id="teaching">🧑‍🏫 Teaching</h2>
 <ul>
   <li> [<a href="https://jiaminx7.github.io/Website/files/Syllabus.pdf">Syllabus</a>] | ME 140L Mechatronics Lab. 2022 Fall, 2023 Spring</li>
-</ul>
+</ul> 
 
