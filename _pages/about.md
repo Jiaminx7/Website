@@ -41,7 +41,7 @@ My research centers on the integration of advanced physics-based and machine lea
  
 <div style="text-align: center;">
     <img src="https://jiaminx7.github.io/Website/images/Model_1.gif" alt="MECC_2023" style="width: 800px;">
-</div>
+</div> 
 <div style="clear:both;"></div>
 
 <h4 id="model-validations">2.1 Model Validations</h4>
