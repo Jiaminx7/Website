@@ -172,3 +172,22 @@ My research centers on the integration of advanced physics-based and machine lea
   <li>[<a href="#ml-approach">Overview</a>] | [<a href="https://mecc2024.a2c2.org/">Download</a>] | <strong>Xu, J.</strong>, Demirer, N., Pho, V., Tian, K., Zhang, H., Bhaidasna, K., Darbe R. and Chen, D., 2024. Data-Driven Modeling of Nonlinear Delay Differential Equations with Gap Effects Using SINDy. <em>IEEE/ASME International Conference on Advanced Intelligent Mechatronics (AIM 2024).</em></li>
 </ul>
 
+
+<h2 id="honors">🏅 Honors and Awards</h2>
+<ul>
+  <li>Highly Cited Paper four times [<a href="#journal">Papers</a>]</li>
+  <li>2023 Best Student Paper Finalist, <a href="https://mecc2023.a2c2.org/" target="_blank">Modelling, Estimation, and Control Conference (MECC 2023)</a>.</li>
+  <li>2021 China National Scholarship (Top 0.2% in China).</li>
+  <li>2021 Graduate Academic Scholarship for 1st prize.</li>
+  <li>2020 Graduate Academic Scholarship for 1st prize.</li>
+  <li>2019 Graduate Academic Scholarship for 1st prize.</li>
+  <li>2019 Champion of Hydrogen group in Shell Eco-marathon ASIA.</li>
+  <li>2019 Undergraduate Academic Scholarship for 3rd prize.</li>
+  <li>2018 Undergraduate Academic Scholarship for 3rd prize.</li>
+  <li>2018 Formula Student Electric China for 2nd prize.</li>
+</ul>
+
+<h2 id="teaching">🧑‍🏫 Teaching</h2>
+<ul>
+  <li> [<a href="https://jiaminx7.github.io/Website/files/Syllabus.pdf">Syllabus</a>] | ME 140L Mechatronics Lab. 2022 Fall, 2023 Spring</li>
+</ul>
