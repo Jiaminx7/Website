@@ -192,21 +192,3 @@ My research centers on the integration of advanced physics-based and machine lea
   <li> [<a href="https://jiaminx7.github.io/Website/files/Syllabus.pdf">Syllabus</a>] | ME 140L Mechatronics Lab. 2022 Fall, 2023 Spring</li>
 </ul>
 
-
-<script>
-document.querySelectorAll('a[href^="#"]').forEach(anchor => {
-    anchor.addEventListener('click', function(e) {
-        // Remove the highlight class from any previously highlighted element
-        document.querySelectorAll('.highlight').forEach(el => el.classList.remove('highlight'));
-        
-        // Wait for the page to scroll to the target element
-        setTimeout(() => {
-            const target = document.querySelector(this.getAttribute('href'));
-            if (target) {
-                target.classList.add('highlight');
-                setTimeout(() => target.classList.remove('highlight'), 1000); // Remove class after 1 second
-            }
-        }, 300); // Adjust timing if necessary
-    });
-});
-</script>
