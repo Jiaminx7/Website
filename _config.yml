@@ -13,7 +13,7 @@ title_separator          : "-"
 name                     : &name "Jiamin Xu"
 description              : &description "Ph.D. student"
 url                      : https://jiaminx7.github.io/Website/
-baseurl                  :  "/Website"
+baseurl                  :  ""
 repository               : "academicpages/academicpages.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
