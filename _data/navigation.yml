@@ -6,19 +6,19 @@
 
 main:
   - title: "Projects"
-    url: #projects
+    url: https://jiaminx7.github.io/Website/#projects
     
   - title: "Publications"
-    url: #publications
+    url: https://jiaminx7.github.io/Website/#publications
     
   - title: "Honors"
-    url: /Website/#honors    
+    url: https://jiaminx7.github.io/Website/#honors    
   
   - title: "Teaching"
-    url: /Website/#teaching    
+    url: https://jiaminx7.github.io/Website/#teaching    
 
   - title: "CV"
-    url: /Website/files/CV.pdf
+    url: https://jiaminx7.github.io/Website/files/CV.pdf
         
   - title: "Blog Posts"
-    url: /Website/year-archive/
+    url: https://jiaminx7.github.io/Website/year-archive/
