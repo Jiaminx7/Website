@@ -150,26 +150,26 @@ My research centers on the integration of advanced physics-based and machine lea
 
 <h3 id="journal">Journal</h3>
 <ul>
-  <li>[<a href="#physics-based-method">Overview</a>] | [<a href="https://www.sciencedirect.com/science/article/pii/S2949891024001994">Download</a>] | <strong>Xu, J.</strong>, Demirer, N., Pho, V., Tian, K., Zhang, H., Bhaidasna, K., Darbe, R. and Chen, D., 2024. Advancing real-time drilling trajectory prediction with an efficient nonlinear DDE model and online parameter estimation. <em>Geoenergy Science and Engineering, 238, p.212829.</em></li>
+  <li>[<a href="#physics-based-method">Overview</a>] | [<a href="https://www.sciencedirect.com/science/article/pii/S2949891024001994">Download</a>] | <strong>Xu J</strong>, Demirer N, Pho V, Tian K, Zhang H, Bhaidasna K, Darbe R and Chen D, 2024. Advancing real-time drilling trajectory prediction with an efficient nonlinear DDE model and online parameter estimation. <em>Geoenergy Science and Engineering, 238, p.212829.</em></li>
   
-  <li>[<a href="#model-validations">Overview</a>] | [<a href="https://asmedigitalcollection.asme.org/lettersdynsys/article-abstract/3/2/021007/1166902/Experimentally-Validated-Nonlinear-Delayed?redirectedFrom=fulltext">Download</a>] | <strong>Xu, J</strong>, Keller A, Nazli D, Zhang H, Tian K, Bhaidasna K, Darbe R, Chen D. Experimentally Validated Nonlinear Delayed Differential Approach to Model Borehole Propagation for Directional Drilling. <em>ASME Letters in Dynamic Systems and Control, ALDSC-23-1030</em>. (<strong>Best Student Paper Finalist</strong>, MECC 2023)</li>
+  <li>[<a href="#model-validations">Overview</a>] | [<a href="https://asmedigitalcollection.asme.org/lettersdynsys/article-abstract/3/2/021007/1166902/Experimentally-Validated-Nonlinear-Delayed?redirectedFrom=fulltext">Download</a>] | <strong>Xu J</strong>, Keller A, Nazli D, Zhang H, Tian K, Bhaidasna K, Darbe R, Chen D. Experimentally Validated Nonlinear Delayed Differential Approach to Model Borehole Propagation for Directional Drilling. <em>ASME Letters in Dynamic Systems and Control, ALDSC-23-1030</em>. (<strong>Best Student Paper Finalist</strong>, MECC 2023)</li>
   
-  <li>[<a href="#thermal-management">Overview</a>] | [<a href="https://www.sciencedirect.com/science/article/pii/S1364032121011746">Download</a>] | <strong>Xu, J.</strong>, Zhang C, Wan Z, Chen X, Chan SH, Tu Z. Progress and perspectives of integrated thermal management systems in PEM fuel cell vehicles: A review. <em>Renewable and Sustainable Energy Reviews, 2022;155:111908.</em> (<strong>Highly Cited Paper in 2022, 2023 and 2024</strong>, Web of Science).</li>
+  <li>[<a href="#thermal-management">Overview</a>] | [<a href="https://www.sciencedirect.com/science/article/pii/S1364032121011746">Download</a>] | <strong>Xu J.</strong>, Zhang C, Wan Z, Chen X, Chan SH, Tu Z. Progress and perspectives of integrated thermal management systems in PEM fuel cell vehicles: A review. <em>Renewable and Sustainable Energy Reviews, 2022;155:111908.</em> (<strong>Highly Cited Paper in 2022, 2023 and 2024</strong>, Web of Science).</li>
   
-  <li>[<a href="#thermal-management">Overview</a>] | [<a href="https://www.sciencedirect.com/science/article/pii/S0360544220306022">Download</a>] |<strong>Xu, J.</strong>, Zhang C, Fan R, Bao H, Wang Y, Huang S, et al. Modelling and control of vehicle integrated thermal management system of PEM fuel cell vehicle. <em>Energy, 2020;199:117495.</em> </li>
+  <li>[<a href="#thermal-management">Overview</a>] | [<a href="https://www.sciencedirect.com/science/article/pii/S0360544220306022">Download</a>] |<strong>Xu J</strong>, Zhang C, Fan R, Bao H, Wang Y, Huang S, et al. Modelling and control of vehicle integrated thermal management system of PEM fuel cell vehicle. <em>Energy, 2020;199:117495.</em> </li>
   
-  <li>[<a href="#fuel-cells">Overview</a>] | [<a href="https://www.sciencedirect.com/science/article/pii/S0360544222024665">Download</a>] | Fan R, Chang G, <strong>Xu, Y.</strong>, <strong>Xu, J.</strong> Multi-objective optimization of graded catalyst layer to improve performance and current density uniformity of a PEMFC. <em>Energy, 2023 Jan 1;262:125580.</em> (<strong>Highly Cited Paper in 2023</strong>)</li>
+  <li>[<a href="#fuel-cells">Overview</a>] | [<a href="https://www.sciencedirect.com/science/article/pii/S0360544222024665">Download</a>] | Fan R, Chang G, Xu Y, <strong>Xu J.</strong> Multi-objective optimization of graded catalyst layer to improve performance and current density uniformity of a PEMFC. <em>Energy, 2023 Jan 1;262:125580.</em> (<strong>Highly Cited Paper in 2023</strong>)</li>
   
-  <li> [<a href="">Overview</a>] | [<a href="http://qks.cqu.edu.cn/cqdxzren/article/abstract/202304001">Download</a>] | Ma R, <strong>Xu, J.</strong>, Li J, Yuan H, Zhang C. A multi-conditions speed predictor based on a DK clustering model. <em>Journal of Chongqing University.</em></li>
+  <li> [<a href="">Overview</a>] | [<a href="http://qks.cqu.edu.cn/cqdxzren/article/abstract/202304001">Download</a>] | Ma R, <strong>Xu J.</strong>, Li J, Yuan H, Zhang C. A multi-conditions speed predictor based on a DK clustering model. <em>Journal of Chongqing University.</em></li>
 </ul>
 
 <hr>
 
 <h3 id="conference">Conference</h3>
 <ul>
-  <li>[<a href="#model-predictive-control">Overview</a>] | [<a href="">Download</a>] | <strong>Xu, J.</strong>, Demirer, N., Pho, V., Tian, K., Zhang, H., Bhaidasna, K., Darbe R. and Chen, D., 2024. Nonlinear Model Predictive Control for Directional Drilling Applications. <em>Modeling, Estimation, and Control Conference (MECC 2024).</em></li>
+  <li>[<a href="#model-predictive-control">Overview</a>] | [<a href="">Download</a>] | <strong>Xu J</strong>, Demirer N, Pho V, Tian K, Zhang, H, Bhaidasna, K, Darbe R and Chen D, 2024. Nonlinear Model Predictive Control for Directional Drilling Applications. <em>Modeling, Estimation, and Control Conference (MECC 2024).</em></li>
   
-  <li>[<a href="#ml-approach">Overview</a>] | [<a href="https://mecc2024.a2c2.org/">Download</a>] | <strong>Xu, J.</strong>, Demirer, N., Pho, V., Tian, K., Zhang, H., Bhaidasna, K., Darbe R. and Chen, D., 2024. Data-Driven Modeling of Nonlinear Delay Differential Equations with Gap Effects Using SINDy. <em>IEEE/ASME International Conference on Advanced Intelligent Mechatronics (AIM 2024).</em></li>
+  <li>[<a href="#ml-approach">Overview</a>] | [<a href="https://mecc2024.a2c2.org/">Download</a>] | <strong>Xu, J.</strong>, Demirer, N, Pho, V, Tian K, Zhang H, Bhaidasna K, Darbe R, and Chen D, 2024. Data-Driven Modeling of Nonlinear Delay Differential Equations with Gap Effects Using SINDy. <em>IEEE/ASME International Conference on Advanced Intelligent Mechatronics (AIM 2024).</em></li>
 </ul>
 
 
