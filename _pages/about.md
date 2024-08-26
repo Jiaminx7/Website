@@ -21,7 +21,7 @@ My research centers on the integration of advanced physics-based and machine lea
   <br><a href="#event-detection">🔔 Fault Diagnosis</a> | <a href="#directional-drilling">⛽️ Directional Drilling</a> | <a href="#optimization"> 🥣 Optimization</a> | <a href="#flow-structure-interaction"> 🌊 Turbulence</a> | <a href="#vehicle-engineering">🚗 Vehicles</a></p>
 
 <!-- Begin Projects Content -->
-<h3 id="event-detection">1. 🔔 Fault Diagnos System for Drilling</h3>
+<h3 id="event-detection">1. 🔔 Fault Diagnosis System for Drilling</h3>
 
 <h4 id="two-phase-flow">1.1 Two Phase Flow Simulator</h4>
 <div style="display: flex; align-items: center;">
