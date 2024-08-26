@@ -20,7 +20,7 @@ My research centers on the integration of advanced physics-based and machine lea
 <p>Jump to: <a href="#event-detection">🔔 Fault Diagnosis</a> | <a href="#directional-drilling">⛽️ Directional Drilling</a> | <a href="#optimization"> 0️⃣ Optimization</a> | <a href="#flow-structure-interaction"> 🌊 Turbulence</a> | <a href="#vehicle-engineering">🚗 Vehicles</a></p>
 
 <!-- Begin Projects Content -->
-<h3 id="event-detection">1 🔔 Event Detection System for Drilling</h3>
+<h3 id="event-detection">1. 🔔 Event Detection System for Drilling</h3>
 
 <h4 id="two-phase-flow">1.1 Two Phase Flow Simulator</h4>
 <div style="display: flex; align-items: center;">
@@ -36,7 +36,7 @@ My research centers on the integration of advanced physics-based and machine lea
 </div>
 <hr>
 
-<h3 id="directional-drilling">2 ⛽️ Modeling, Estimation, and Control of Directional Drilling</h3>
+<h3 id="directional-drilling">2. ⛽️ Modeling, Estimation, and Control of Directional Drilling</h3>
 
 <div style="text-align: center;">
     <img src="https://jiaminx7.github.io/Website/images/Model.gif" alt="MECC_2023" style="width: 800px;">
@@ -96,7 +96,7 @@ My research centers on the integration of advanced physics-based and machine lea
 </div>
 <hr>
 
-<h3 id="optimization">3 0️⃣ Optimization Solver Package</h3>
+<h3 id="optimization">3. 0️⃣ Optimization Solver Package</h3>
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
     <img src="https://jiaminx7.github.io/Website/images/optimization.png" alt="Optimization" style="margin-right: 15px; width: 400px;">
     <p>RaghuRobi, named after one of my favorite instructors <a href="https://oden.utexas.edu/people/directory/Raghu-Bollapragada/" target="_blank">Dr. Bollapragada</a>, is a software package for solving unconstrained optimization problems with methods such as Gradient Descent, Newton-CG, and BFGS.
@@ -104,7 +104,7 @@ My research centers on the integration of advanced physics-based and machine lea
 </div>
 <hr>
 
-<h3 id="flow-structure-interaction">4 🌊 Flow Structure Interaction</h3>
+<h3 id="flow-structure-interaction">4. 🌊 Flow Structure Interaction</h3>
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
     <img src="https://jiaminx7.github.io/Website/images/canopy.png" alt="FSI" style="margin-right: 15px; width: 400px;">
     <p>Experimental investigation of turbulence dynamics and transport modulated by canopies.
@@ -112,7 +112,7 @@ My research centers on the integration of advanced physics-based and machine lea
 </div>
 <hr>
 
-<h3 id="vehicle-engineering">5 🚗 Vehicle Engineering</h3>
+<h3 id="vehicle-engineering">5. 🚗 Vehicle Engineering</h3>
 
 <h4 id="fuel-cells">5.1 Fuel Cells</h4>
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
