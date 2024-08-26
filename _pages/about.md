@@ -5,7 +5,7 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
----
+--- 
 
 <img src="https://jiaminx7.github.io/Website/images/Background.png" alt="Research Illustration" style="float: right; margin-left: 15px; width: 300px;">
 
