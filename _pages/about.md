@@ -149,7 +149,7 @@ My research centers on the integration of advanced physics-based and machine lea
 
 <h3 id="journal">Journal</h3>
 <ul>
-  <li><strong>Xu, J.</strong>, Demirer, N., Pho, V., Tian, K., Zhang, H., Bhaidasna, K., Darbe, R. and Chen, D., 2024. Advancing real-time drilling trajectory prediction with an efficient nonlinear DDE model and online parameter estimation. <em>Geoenergy Science and Engineering, 238, p.212829.</em></li>
+  <li><strong>Xu, J.</strong>, Demirer, N., Pho, V., Tian, K., Zhang, H., Bhaidasna, K., Darbe, R. and Chen, D., 2024. <a href="https://www.sciencedirect.com/science/article/pii/S2949891024001994" target="_blank">Advancing real-time drilling trajectory prediction with an efficient nonlinear DDE model and online parameter estimation</a>. <em>Geoenergy Science and Engineering, 238, p.212829.</em></li>
   
   <li><strong>Xu, J</strong>, Keller A, Nazli D, Zhang H, Tian K, Bhaidasna K, Darbe R, Chen D. Experimentally Validated Nonlinear Delayed Differential Approach to Model Borehole Propagation for Directional Drilling. <em>ASME Letters in Dynamic Systems and Control, ALDSC-23-1030</em>. (Best Student Paper Finalist, MECC 2023)</li>
   
