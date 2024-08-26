@@ -48,7 +48,7 @@ My research centers on the integration of advanced physics-based and machine lea
     <img src="https://jiaminx7.github.io/Website/images/Comparison.gif" alt="MECC_2023" style="margin-right: 15px; width: 400px;">
     <p>
         Compared and generalized linear/nonlinear DDE models for borehole propagation using experimental data.
-        <br>Check out our paper <a href="https://asmedigitalcollection.asme.org/lettersdynsys/article-abstract/3/2/021007/1166902/Experimentally-Validated-Nonlinear-Delayed?redirectedFrom=fulltext" target="_blank">Here</a>,
+        <br><br>Check out our paper <a href="https://asmedigitalcollection.asme.org/lettersdynsys/article-abstract/3/2/021007/1166902/Experimentally-Validated-Nonlinear-Delayed?redirectedFrom=fulltext" target="_blank">Here</a>,
         which is the <strong>Best Student Paper Finalist</strong> at Modeling, Estimation, and Control Conference (<a href="https://mecc2023.a2c2.org/" target="_blank">MECC 2023</a>).
     </p>
 </div>
@@ -61,7 +61,7 @@ My research centers on the integration of advanced physics-based and machine lea
     <img src="https://jiaminx7.github.io/Website/images/AIM.png" alt="AIM" style="width: 400px; height: auto; margin-right: 15px;">
     <p>
         A data driven approach to approximate the complex nonlinear DDE model by using the Sparse Identification of Nonlinear Dynamics (SINDy) method. 
-        <br>Check out our paper <a href="https://ras.papercept.net/images/temp/AIM/files/0221.pdf" target="_blank">Here</a>, published by IEEE/ASME International Conference on Advanced Intelligent Mechatronics (<a href="https://www.aim2024.org/" target="_blank">AIM 2024</a>).
+        <br><br>Check out our paper <a href="https://ras.papercept.net/images/temp/AIM/files/0221.pdf" target="_blank">Here</a>, published by IEEE/ASME International Conference on Advanced Intelligent Mechatronics (<a href="https://www.aim2024.org/" target="_blank">AIM 2024</a>).
     </p>
 </div>
 <hr>
@@ -71,7 +71,7 @@ My research centers on the integration of advanced physics-based and machine lea
     <img src="https://jiaminx7.github.io/Website/images/JPSE.png" alt="JPSE" style="margin-right: 15px; width: 400px;">
     <p>An efficient model that is 80 times faster than the nonlinear DDE model while having high prediction accuracy (maximum error within 2 degrees). 
 
-    <br>Check out our paper <a href="https://www.sciencedirect.com/science/article/pii/S2949891024001994" target="_blank">Here</a>, published by <a href="https://www.sciencedirect.com/journal/geoenergy-science-and-engineering" target="_blank">Geoenergy Science and Engineering</a>.
+    <br><br>Check out our paper <a href="https://www.sciencedirect.com/science/article/pii/S2949891024001994" target="_blank">Here</a>, published by <a href="https://www.sciencedirect.com/journal/geoenergy-science-and-engineering" target="_blank">Geoenergy Science and Engineering</a>.
     </p>
 </div>
 <hr>
@@ -81,7 +81,7 @@ My research centers on the integration of advanced physics-based and machine lea
     <img src="https://jiaminx7.github.io/Website/images/Estimation.png" alt="Estimation" style="margin-right: 15px; width: 400px;">
     <p>A Gradient Descent based method equipped with Line Search to estimate the unknown parameter during drilling. 
 
-    <br>Check out our paper <a href="https://www.sciencedirect.com/science/article/pii/S2949891024001994" target="_blank">Here</a>, published by <a href="https://www.sciencedirect.com/journal/geoenergy-science-and-engineering" target="_blank">Geoenergy Science and Engineering</a>.
+    <br><br>Check out our paper <a href="https://www.sciencedirect.com/science/article/pii/S2949891024001994" target="_blank">Here</a>, published by <a href="https://www.sciencedirect.com/journal/geoenergy-science-and-engineering" target="_blank">Geoenergy Science and Engineering</a>.
     </p>
 </div>
 <hr>
@@ -91,7 +91,7 @@ My research centers on the integration of advanced physics-based and machine lea
     <img src="https://jiaminx7.github.io/Website/images/MPC.png" alt="MPC" style="margin-right: 15px; width: 400px;">
     <p>A Model Predictive Controller for directional drilling by using the nonlinear DDE model. 
 
-    <br>Paper accepted by Modeling, Estimation, and Control Conference (<a href="https://mecc2024.a2c2.org/" target="_blank">MECC 2024</a>).
+    <br><br>Paper accepted by Modeling, Estimation, and Control Conference (<a href="https://mecc2024.a2c2.org/" target="_blank">MECC 2024</a>).
     </p>
 </div>
 <hr>
@@ -119,7 +119,7 @@ My research centers on the integration of advanced physics-based and machine lea
     <img src="https://jiaminx7.github.io/Website/images/Fuelcell.png" alt="Fuelcell" style="margin-right: 15px; width: 400px;">
     <p>Optimization of graded catalyst layer to improve fuel cell performance. 
 
-    <br>Check out our paper <a href="https://www.sciencedirect.com/science/article/pii/S0360544222024665" target="_blank">Here</a>, published by <a href="https://www.sciencedirect.com/journal/energy" target="_blank">Energy</a> and is the <strong>Highly Cited Paper</strong> in 2023, Web of Science.
+    <br><br>Check out our paper <a href="https://www.sciencedirect.com/science/article/pii/S0360544222024665" target="_blank">Here</a>, published by <a href="https://www.sciencedirect.com/journal/energy" target="_blank">Energy</a> and is the <strong>Highly Cited Paper</strong> in 2023, Web of Science.
     </p>
 </div>
 <hr>
@@ -129,7 +129,7 @@ My research centers on the integration of advanced physics-based and machine lea
     <img src="https://jiaminx7.github.io/Website/images/ITMS.png" alt="ITMS" style="margin-right: 15px; width: 400px;">
     <p>Integrated thermal management of fuel cell vehicles. 
 
-    <br>Check out our <a href="https://www.sciencedirect.com/science/article/pii/S0360544220306022" target="_blank">Paper 1</a> and <a href="https://www.sciencedirect.com/science/article/pii/S1364032121011746" target="_blank">Paper 2</a>, published by <a href="https://www.sciencedirect.com/journal/energy" target="_blank">Energy</a> and <a href="https://www.sciencedirect.com/journal/renewable-and-sustainable-energy-reviews" target="_blank">Renewable and Sustainable Energy Reviews</a>, respectively. The second paper is the <strong>Highly Cited Paper</strong> in 2022, 2023, and 2024, <a href="https://www-webofscience-com.ezproxy.lib.utexas.edu/wos/woscc/summary/ced4c522-5b41-43b6-a82c-8015f5c083e1-0103f2b492/relevance/1" target="_blank">Web of Science</a>.
+    <br><br>Check out our <a href="https://www.sciencedirect.com/science/article/pii/S0360544220306022" target="_blank">Paper 1</a> and <a href="https://www.sciencedirect.com/science/article/pii/S1364032121011746" target="_blank">Paper 2</a>, published by <a href="https://www.sciencedirect.com/journal/energy" target="_blank">Energy</a> and <a href="https://www.sciencedirect.com/journal/renewable-and-sustainable-energy-reviews" target="_blank">Renewable and Sustainable Energy Reviews</a>, respectively. The second paper is the <strong>Highly Cited Paper</strong> in 2022, 2023, and 2024, <a href="https://www-webofscience-com.ezproxy.lib.utexas.edu/wos/woscc/summary/ced4c522-5b41-43b6-a82c-8015f5c083e1-0103f2b492/relevance/1" target="_blank">Web of Science</a>.
     </p>
 </div>
 <hr>
@@ -176,7 +176,7 @@ My research centers on the integration of advanced physics-based and machine lea
 <h2 id="honors">🏅 Honors and Awards</h2>
 <ul>
   <li>Highly Cited Paper four times [<a href="#journal">Papers</a>]</li>
-  <li>2023 Best Student Paper Finalist, <a href="https://mecc2023.a2c2.org/" target="_blank">Modelling, Estimation, and Control Conference (MECC 2023)</a>.</li>
+  <li>2023 Best Student Paper Finalist, <a href="https://mecc2023.a2c2.org/" target="_blank">Modelling, Estimation, and Control Conference (MECC)</a>.</li>
   <li>2021 China National Scholarship (Top 0.2% in China).</li>
   <li>2021 Graduate Academic Scholarship for 1st prize.</li>
   <li>2020 Graduate Academic Scholarship for 1st prize.</li>
