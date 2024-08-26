@@ -7,10 +7,10 @@
 main:
 
   - title: "Projects"
-    url: https://jiaminx7.github.io/Website/about/#projects
+    url: /Website/about/#projects
     
   - title: "Publications"
-    url: https://jiaminx7.github.io/Website/about/#publications
+    url: /Website/about/#publications
     
   - title: "Honors"
     url: /about/#honors    
