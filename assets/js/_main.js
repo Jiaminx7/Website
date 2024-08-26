@@ -96,21 +96,4 @@ $(document).ready(function(){
     midClick: true // allow opening popup on middle mouse click. Always set it to true if you don't provide alternative source.
   });
    
-  // Add your custom highlight effect script here
-  document.querySelectorAll('a[href^="#"]').forEach(anchor => {
-    anchor.addEventListener('click', function(e) {
-        // Remove the highlight class from any previously highlighted element
-        document.querySelectorAll('.highlight').forEach(el => el.classList.remove('highlight'));
-        
-        // Wait for the page to scroll to the target element
-        setTimeout(() => {
-            const target = document.querySelector(this.getAttribute('href'));
-            if (target) {
-                target.classList.add('highlight');
-                setTimeout(() => target.classList.remove('highlight'), 1000); // Remove class after 1 second
-            }
-        }, 300); // Adjust timing if necessary
-    });
-  });
-   
 });
