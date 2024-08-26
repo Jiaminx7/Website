@@ -6,10 +6,10 @@
 
 main:
   - title: "Projects"
-    url: /Website/#projects
+    url: Website/#projects
     
   - title: "Publications"
-    url: /Website/#publications
+    url: Website/#publications
     
   - title: "Honors"
     url: /Website/#honors    
