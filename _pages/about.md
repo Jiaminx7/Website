@@ -149,7 +149,7 @@ My research centers on the integration of advanced physics-based and machine lea
 <h2 id="publications">
   <img src="https://jiaminx7.github.io/Website/images/Publications.png" alt="icon" style="width: 24px; height: 24px; vertical-align: middle; margin-right: 8px;">
   Publications</h2>
-<p>My journal and conference publications are listed below. For a brief summary of each work, please refer to the <a href="#projects">Projects</a> section on this page.</p>
+<p>My journal and conference publications are listed below. For a brief summary of each work, please refer to the <a href="#projects">Projects</a> section on this page or click [<a href="#projects">Overview</a>] in front of each publications.</p>
 
 <p>Jump to: <a href="#journal">Journal</a> | <a href="#conference">Conference</a></p>
 
