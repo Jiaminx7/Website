@@ -48,7 +48,7 @@ My research centers on the integration of advanced physics-based and machine lea
     <p>
         Compared and generalized linear/nonlinear DDE models for borehole propagation using experimental data.
         Check out our paper <a href="https://asmedigitalcollection.asme.org/lettersdynsys/article-abstract/3/2/021007/1166902/Experimentally-Validated-Nonlinear-Delayed?redirectedFrom=fulltext" target="_blank">Here</a>,
-        which is the <strong>Best Student Paper Finalist</strong> at Modelling, Estimation, and Control Conference (<a href="https://mecc2023.a2c2.org/" target="_blank">MECC 2023</a>).
+        which is the <strong>Best Student Paper Finalist</strong> at Modeling, Estimation, and Control Conference (<a href="https://mecc2023.a2c2.org/" target="_blank">MECC 2023</a>).
     </p>
 </div>
 <hr>
@@ -90,7 +90,7 @@ My research centers on the integration of advanced physics-based and machine lea
     <img src="https://jiaminx7.github.io/Website/images/MPC.png" alt="MPC" style="margin-right: 15px; width: 400px;">
     <p>A Model Predictive Controller for directional drilling by using the nonlinear DDE model. 
 
-    Paper accepted by Modelling, Estimation, and Control Conference (<a href="https://mecc2024.a2c2.org/" target="_blank">MECC 2024</a>).
+    Paper accepted by Modeling, Estimation, and Control Conference (<a href="https://mecc2024.a2c2.org/" target="_blank">MECC 2024</a>).
     </p>
 </div>
 <hr>
@@ -166,7 +166,7 @@ My research centers on the integration of advanced physics-based and machine lea
 
 <h3 id="conference">Conference</h3>
 <ul>
-  <li>[<a href="#model-predictive-control">Overview</a>] | <strong>Xu, J.</strong>, Demirer, N., Pho, V., Tian, K., Zhang, H., Bhaidasna, K., Darbe R. and Chen, D., 2024. Nonlinear Model Predictive Control for Directional Drilling Applications. <em>(Accepted).</em></li>
+  <li>[<a href="#model-predictive-control">Overview</a>] | [<a href="">Download</a>] | <strong>Xu, J.</strong>, Demirer, N., Pho, V., Tian, K., Zhang, H., Bhaidasna, K., Darbe R. and Chen, D., 2024. Nonlinear Model Predictive Control for Directional Drilling Applications. <em>Modeling, Estimation, and Control Conference (MECC 2024).</em></li>
   
-  <li>[<a href="#ml-approach">Overview</a>] | <strong>Xu, J.</strong>, Demirer, N., Pho, V., Tian, K., Zhang, H., Bhaidasna, K., Darbe R. and Chen, D., 2024. Data-Driven Modeling of Nonlinear Delay Differential Equations with Gap Effects Using SINDy. <em>(Accepted).</em></li>
+  <li>[<a href="#ml-approach">Overview</a>] | [<a href="https://mecc2024.a2c2.org/">Download</a>] | <strong>Xu, J.</strong>, Demirer, N., Pho, V., Tian, K., Zhang, H., Bhaidasna, K., Darbe R. and Chen, D., 2024. Data-Driven Modeling of Nonlinear Delay Differential Equations with Gap Effects Using SINDy. <em>IEEE/ASME International Conference on Advanced Intelligent Mechatronics (AIM 2024).</em></li>
 </ul>
