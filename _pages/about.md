@@ -40,7 +40,7 @@ My research centers on the integration of advanced physics-based and machine lea
 <h3 id="directional-drilling">2. ⛽️ Modeling, Estimation, and Control of Directional Drilling</h3>
 
 <div style="text-align: center;">
-    <img src="https://jiaminx7.github.io/Website/images/Model.gif" alt="MECC_2023" style="width: 800px;">
+    <img src="https://jiaminx7.github.io/Website/images/Model_1.gif" alt="MECC_2023" style="width: 800px;">
 </div>
 <div style="clear:both;"></div>
 
