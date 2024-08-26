@@ -13,7 +13,11 @@ Hello. I am a third year Ph.D. student in the [Walker Department of Mechanical E
 
 My research centers on the integration of advanced physics-based and machine learning techniques to address complex challenges in both academia and industry. I specialize in the modeling, estimation, and control of diverse systems, with applications ranging from drilling automation, vehicle engineering, to fluid mechanics. My work aims to bridge the gap between theoretical advancements and practical implementations, driving innovation in different fields.
 
-<h2 id="projects">Projects</h2>
+
+<h2 id="projects">
+      <img src="https://jiaminx7.github.io/Website/images/Project.png" alt="icon" style="width: 24px; height: 24px; vertical-align: middle; margin-right: 8px;">
+  Projects
+</h2>
 
 <!-- Table of Contents for Projects -->
 <p>Jump to: <a href="#event-detection">Hydraulics</a> | <a href="#directional-drilling">Directional Drilling</a> | <a href="#optimization">Optimization</a> | <a href="#flow-structure-interaction">Turbulence</a> | <a href="#vehicle-engineering">Vehicles</a></p>
@@ -142,7 +146,9 @@ My research centers on the integration of advanced physics-based and machine lea
 <hr>
 
 
-<h2 id="publications">Publications</h2>
+<h2 id="publications">
+  <img src="https://jiaminx7.github.io/Website/images/Publications.png" alt="icon" style="width: 24px; height: 24px; vertical-align: middle; margin-right: 8px;">
+  Publications</h2>
 <p>My journal and conference publications are listed below. For a brief summary of each work, please refer to the <a href="#projects">Projects</a> section on this page.</p>
 
 <p>Jump to: <a href="#journal">Journal</a> | <a href="#conference">Conference</a></p>
