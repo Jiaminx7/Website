@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 --- 
-
+ 
 <img src="https://jiaminx7.github.io/Website/images/Background.png" alt="Research Illustration" style="float: right; margin-left: 15px; width: 300px;">
 
 Hello. I am a third year Ph.D. student in the [Walker Department of Mechanical Engineering at the University of Texas at Austin](https://www.me.utexas.edu/), where I conducted research in the [Advanced Power Systems and Control Laboratory](https://www.apscl.me.utexas.edu/) under the supervision of Prof. [Dongmei "Maggie" Chen](https://www.me.utexas.edu/people/faculty-directory/chen). My Ph.D. research is founded by [Halliburton](https://www.halliburton.com/) and I finished two summer internships there. Before my Ph.D. career, I was a visiting researcher in the [Renewable Energy & Turbulent Environment Group](https://chamorro.mechse.illinois.edu/) at the University of Illinois at Urbana-Champaign (UIUC).
