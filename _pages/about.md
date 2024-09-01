@@ -170,7 +170,7 @@ My research centers on the integration of advanced physics-based and machine lea
 <ul>
   <li>[<a href="#model-predictive-control">Overview</a>] | [<a href="https://mecc2024.a2c2.org/">Download</a>] | <strong>Xu J</strong>, Demirer N, Pho V, Tian K, Zhang, H, Bhaidasna, K, Darbe R and Chen D, 2024. Nonlinear Model Predictive Control for Directional Drilling Applications. <em>Modeling, Estimation, and Control Conference (MECC 2024).</em></li>
   
-  <li>[<a href="#ml-approach">Overview</a>] | [<a href="(https://ieeexplore.ieee.org/abstract/document/10637184?casa_token=wLYcQ3EIx-YAAAAA:Dtin0dqEwaANiHYttkDh7sEaAnAJ6lQz7HSl9-HeV3I-gFyyFztVpi9kCEN8mqFupF02BCE7Aqo)">Download</a>] | <strong>Xu, J.</strong>, Demirer, N, Pho, V, Tian K, Zhang H, Bhaidasna K, Darbe R, and Chen D, 2024. Data-Driven Modeling of Nonlinear Delay Differential Equations with Gap Effects Using SINDy. <em>IEEE/ASME International Conference on Advanced Intelligent Mechatronics (AIM 2024).</em></li>
+  <li>[<a href="#ml-approach">Overview</a>] | [<a href="https://ieeexplore.ieee.org/abstract/document/10637184?casa_token=wLYcQ3EIx-YAAAAA:Dtin0dqEwaANiHYttkDh7sEaAnAJ6lQz7HSl9-HeV3I-gFyyFztVpi9kCEN8mqFupF02BCE7Aqo">Download</a>] | <strong>Xu, J.</strong>, Demirer, N, Pho, V, Tian K, Zhang H, Bhaidasna K, Darbe R, and Chen D, 2024. Data-Driven Modeling of Nonlinear Delay Differential Equations with Gap Effects Using SINDy. <em>IEEE/ASME International Conference on Advanced Intelligent Mechatronics (AIM 2024).</em></li>
 </ul>
 
 
