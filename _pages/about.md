@@ -23,17 +23,27 @@ My research centers on the integration of advanced physics-based and machine lea
 <!-- Begin Projects Content -->
 <h3 id="event-detection">1. 🔔 Fault Diagnosis System for Drilling</h3>
 
-<h4 id="two-phase-flow">1.1 Two Phase Flow Simulator</h4>
+<h4 id="ai-detection">1.1 AI driven detection system</h4>
+<div style="display: flex; align-items: center;">
+    <img src="https://jiaminx7.github.io/Website/images/AI.png" alt="AI" style="margin-right: 15px; width: 400px;">
+    <p>LSTM and Transformer for event detection; GANs for data augmentation.</p>
+</div>
+<hr>
+
+<h4 id="two-phase-flow">1.2 Two Phase Flow Simulator</h4>
 <div style="display: flex; align-items: center;">
     <img src="https://jiaminx7.github.io/Website/images/DFM.gif" alt="DFM" style="margin-right: 15px; width: 400px;">
     <p>3 nonlinear PDEs with 4 closure equations to simulate the gas bubble propagation inside the wellbore.</p>
 </div>
 <hr>
 
-<h4 id="real-time-detection">1.2 Fast Real Time Detection System</h4>
+<h4 id="real-time-detection">1.3 Fast Real Time Detection System</h4>
 <div style="display: flex; align-items: center;">
-    <img src="https://jiaminx7.github.io/Website/images/Phase_Portrait.gif" alt="Phase" style="margin-right: 15px; width: 400px;">
-    <p>Phase portrait of a hydraulic system. <br>Paper coming soon...</p>
+    <img src="https://jiaminx7.github.io/Website/images/Graphic_Abstract.png" alt="UKF" style="margin-right: 15px; width: 400px;">
+    <p>A model-based event detection system using UKF to achieve real-time monitoring and fault detection capabilities in drilling operations.
+    
+    <br><br>Check out our paper <a href="https://www.sciencedirect.com/science/article/pii/S2949891024009874" target="_blank">Here</a>, published by <a href="https://www.sciencedirect.com/journal/geoenergy-science-and-engineering" target="_blank">Geoenergy Science and Engineering</a>.
+    </p>
 </div>
 <hr>
 
@@ -151,6 +161,8 @@ My research centers on the integration of advanced physics-based and machine lea
 
 <h3 id="journal">Journal</h3>
 <ul>
+  <li>[<a href="#real-time-detection">Overview</a>] | [<a href="https://www.sciencedirect.com/science/article/pii/S2949891024009874">Download</a>] | <strong>Xu J</strong>, Aguirre J, Song S, Sun Z, Bhaidasna K, Chen D, 2024. A UKF Enabled Model Based Event Detection System for Drilling Operation. <em>Geoenergy Science and Engineering, 2024, 213617.</em></li>
+  
   <li>[<a href="#physics-based-method">Overview</a>] | [<a href="https://www.sciencedirect.com/science/article/pii/S2949891024001994">Download</a>] | <strong>Xu J</strong>, Demirer N, Pho V, Tian K, Zhang H, Bhaidasna K, Darbe R and Chen D, 2024. Advancing real-time drilling trajectory prediction with an efficient nonlinear DDE model and online parameter estimation. <em>Geoenergy Science and Engineering, 238, p.212829.</em></li>
   
   <li>[<a href="#model-validations">Overview</a>] | [<a href="https://asmedigitalcollection.asme.org/lettersdynsys/article-abstract/3/2/021007/1166902/Experimentally-Validated-Nonlinear-Delayed?redirectedFrom=fulltext">Download</a>] | <strong>Xu J</strong>, Keller A, Nazli D, Zhang H, Tian K, Bhaidasna K, Darbe R, Chen D. Experimentally Validated Nonlinear Delayed Differential Approach to Model Borehole Propagation for Directional Drilling. <em>ASME Letters in Dynamic Systems and Control, ALDSC-23-1030</em>. (<strong>Best Student Paper Finalist</strong>, MECC 2023)</li>
