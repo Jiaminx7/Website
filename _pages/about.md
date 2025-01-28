@@ -102,7 +102,7 @@ My research centers on the integration of advanced physics-based and machine lea
     <img src="https://jiaminx7.github.io/Website/images/MPC.png" alt="MPC" style="margin-right: 15px; width: 400px;">
     <p>A Model Predictive Controller for directional drilling by using the nonlinear DDE model. 
 
-    <br><br>Check out our paper <a href="https://www.sciencedirect.com/science/article/pii/S2405896325000576" target="_blank">Here</a>, Paper presented at Modeling, Estimation, and Control Conference (<a href="https://mecc2024.a2c2.org/" target="_blank">MECC 2024</a>).
+    <br><br>Check out our paper <a href="https://www.sciencedirect.com/science/article/pii/S2405896325000576" target="_blank">Here</a>, presented at Modeling, Estimation, and Control Conference (<a href="https://mecc2024.a2c2.org/" target="_blank">MECC 2024</a>).
     </p>
 </div>
 <hr>
