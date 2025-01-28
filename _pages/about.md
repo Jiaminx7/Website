@@ -102,7 +102,7 @@ My research centers on the integration of advanced physics-based and machine lea
     <img src="https://jiaminx7.github.io/Website/images/MPC.png" alt="MPC" style="margin-right: 15px; width: 400px;">
     <p>A Model Predictive Controller for directional drilling by using the nonlinear DDE model. 
 
-    <br><br>Paper accepted by Modeling, Estimation, and Control Conference (<a href="https://mecc2024.a2c2.org/" target="_blank">MECC 2024</a>).
+    <br><br>Paper accepted by Modeling, Estimation, and Control Conference (<a href="https://www.sciencedirect.com/science/article/pii/S2405896325000576" target="_blank">MECC 2024</a>).
     </p>
 </div>
 <hr>
@@ -180,7 +180,7 @@ My research centers on the integration of advanced physics-based and machine lea
 
 <h3 id="conference">Conference</h3>
 <ul>
-  <li>[<a href="#model-predictive-control">Overview</a>] | [<a href="https://mecc2024.a2c2.org/">Download</a>] | <strong>Xu J</strong>, Demirer N, Pho V, Tian K, Zhang, H, Bhaidasna, K, Darbe R and Chen D, 2024. Nonlinear Model Predictive Control for Directional Drilling Applications. <em>Modeling, Estimation, and Control Conference (MECC 2024).</em></li>
+  <li>[<a href="#model-predictive-control">Overview</a>] | [<a href="https://www.sciencedirect.com/science/article/pii/S2405896325000576">Download</a>] | <strong>Xu J</strong>, Demirer N, Pho V, Tian K, Zhang, H, Bhaidasna, K, Darbe R and Chen D, 2024. Nonlinear Model Predictive Control for Directional Drilling Applications. <em>Modeling, Estimation, and Control Conference (MECC 2024).</em></li>
   
   <li>[<a href="#ml-approach">Overview</a>] | [<a href="https://ieeexplore.ieee.org/abstract/document/10637184?casa_token=wLYcQ3EIx-YAAAAA:Dtin0dqEwaANiHYttkDh7sEaAnAJ6lQz7HSl9-HeV3I-gFyyFztVpi9kCEN8mqFupF02BCE7Aqo">Download</a>] | <strong>Xu, J.</strong>, Demirer, N, Pho, V, Tian K, Zhang H, Bhaidasna K, Darbe R, and Chen D, 2024. Data-Driven Modeling of Nonlinear Delay Differential Equations with Gap Effects Using SINDy. <em>IEEE/ASME International Conference on Advanced Intelligent Mechatronics (AIM 2024).</em></li>
 </ul>
