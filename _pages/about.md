@@ -9,7 +9,7 @@ redirect_from:
    
 <img src="https://jiaminx7.github.io/Website/images/Background.png" alt="Research Illustration" style="float: right; margin-left: 15px; width: 300px;">
 
-Hello. I am an AI Application Engineer at [Fervo Energy](https://fervoenergy.com/), where I previously completed a summer internship. I received my Ph.D. from the [Walker Department of Mechanical Engineering at the University of Texas at Austin](https://www.me.utexas.edu/), where I conducted research in the [Advanced Power Systems and Control Laboratory](https://www.apscl.me.utexas.edu/) under the supervision of Prof. [Dongmei "Maggie" Chen](https://www.me.utexas.edu/people/faculty-directory/chen). My Ph.D. research was funded by [Halliburton](https://www.halliburton.com/), and I completed two summer internships there. Before beginning my Ph.D., I was a visiting researcher in the [Renewable Energy & Turbulent Environment Group](https://chamorro.mechse.illinois.edu/) at the University of Illinois at Urbana-Champaign (UIUC). I earned both my master's and bachelor's degrees from Chongqing University. 
+Hello. I am an AI Application Engineer at [Fervo Energy](https://fervoenergy.com/), where I previously completed a summer internship. I finished my Ph.D. in 3.5 years from the [Walker Department of Mechanical Engineering at the University of Texas at Austin](https://www.me.utexas.edu/), where I conducted research in the [Advanced Power Systems and Control Laboratory](https://www.apscl.me.utexas.edu/) under the supervision of Prof. [Dongmei "Maggie" Chen](https://www.me.utexas.edu/people/faculty-directory/chen). My Ph.D. research was funded by [Halliburton](https://www.halliburton.com/), and I completed two summer internships there. Before beginning my Ph.D., I was a visiting researcher in the [Renewable Energy & Turbulent Environment Group](https://chamorro.mechse.illinois.edu/) at the University of Illinois at Urbana-Champaign (UIUC). I earned both my master's and bachelor's degrees from Chongqing University. 
 
 My research centers on the integration of advanced physics-based and machine learning techniques to address complex challenges in both academia and industry. I specialize in the modeling, estimation, and control of diverse systems, with applications ranging from drilling automation, vehicle engineering, to fluid mechanics. My work aims to bridge the gap between theoretical advancements and practical implementations, driving innovation in different fields.
 
@@ -199,7 +199,7 @@ My research centers on the integration of advanced physics-based and machine lea
 <h2 id="publications">📑 Publications</h2>
 <p>My journal and conference publications are listed below. For a brief summary of each work, please refer to the <a href="#projects">Projects</a> section on this page or click [<a href="#projects">Overview</a>] in front of each publications.</p>
 
-<p>Jump to: <a href="#journal">Journal</a> | <a href="#conference">Conference</a></p>
+<p>Jump to: <a href="#journal">Journal</a> | <a href="#conference">Conference</a> | <a href="#preprint">Preprint</a></p>
 
 <h3 id="journal">Journal</h3>
 <ul>
@@ -227,6 +227,19 @@ My research centers on the integration of advanced physics-based and machine lea
   <li>[<a href="#model-predictive-control">Overview</a>] | [<a href="https://www.sciencedirect.com/science/article/pii/S2405896325000576">Download</a>] | <strong>Xu J</strong>, Demirer N, Pho V, Tian K, Zhang, H, Bhaidasna, K, Darbe R and Chen D, 2024. Nonlinear Model Predictive Control for Directional Drilling Applications. <em>Modeling, Estimation, and Control Conference (MECC 2024).</em></li>
   
   <li>[<a href="#ml-approach">Overview</a>] | [<a href="https://ieeexplore.ieee.org/abstract/document/10637184?casa_token=wLYcQ3EIx-YAAAAA:Dtin0dqEwaANiHYttkDh7sEaAnAJ6lQz7HSl9-HeV3I-gFyyFztVpi9kCEN8mqFupF02BCE7Aqo">Download</a>] | <strong>Xu, J.</strong>, Demirer, N, Pho, V, Tian K, Zhang H, Bhaidasna K, Darbe R, and Chen D, 2024. Data-Driven Modeling of Nonlinear Delay Differential Equations with Gap Effects Using SINDy. <em>IEEE/ASME International Conference on Advanced Intelligent Mechatronics (AIM 2024).</em></li>
+</ul>
+
+<hr>
+
+<h3 id="preprint">Preprint</h3>
+<ul>
+  <li>[<a href="#jiamin-theorem">Overview</a>] | [<a href="https://arxiv.org/abs/2508.05777">Download</a>] | <strong>Xu J</strong>, Demirer N, Pho V, Zhang H, Tian K, Bhaidasna K, ... and Chen D, 2025. Existence and Uniqueness of Solution for Linear Complementarity Problem in Contact Mechanics. <em>arXiv preprint arXiv:2508.05777.</em></li>
+  
+  <li>[<a href="#data-attribution">Overview</a>] | [<a href="https://arxiv.org/abs/2506.11293">Download</a>] | Li J, Li S, <strong>Xu J</strong>, Bakshi S and Chen D, 2025. Influence Functions for Data Attribution in Linear System Identification and LQR Control. <em>arXiv preprint arXiv:2506.11293.</em></li>
+  
+  <li>[<a href="#llm-for-control">Overview</a>] | [<a href="https://arxiv.org/abs/2511.07894">Download</a>] | Li S, Li J, <strong>Xu J</strong> and Chen D, 2025. From Natural Language to Certified H-infinity Controllers: Integrating LLM Agents with LMI-Based Synthesis. <em>arXiv preprint arXiv:2511.07894.</em></li>
+  
+  <li>[<a href="#reinforcement-learning">Overview</a>] | [<a href="https://arxiv.org/abs/2511.07878">Download</a>] | Li S, Li J, <strong>Xu J</strong>, Martin C, Li W and Chen D, 2025. Algorithm-Relative Trajectory Valuation in Policy Gradient Control. <em>arXiv preprint arXiv:2511.07878.</em></li>
 </ul>
 
 
