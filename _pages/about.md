@@ -9,7 +9,7 @@ redirect_from:
    
 <img src="https://jiaminx7.github.io/Website/images/Background.png" alt="Research Illustration" style="float: right; margin-left: 15px; width: 300px;">
 
-Hello. I am a third year Ph.D. student in the [Walker Department of Mechanical Engineering at the University of Texas at Austin](https://www.me.utexas.edu/), where I conducted research in the [Advanced Power Systems and Control Laboratory](https://www.apscl.me.utexas.edu/) under the supervision of Prof. [Dongmei "Maggie" Chen](https://www.me.utexas.edu/people/faculty-directory/chen). My Ph.D. research is founded by [Halliburton](https://www.halliburton.com/) and I finished two summer internships there. Before my Ph.D. career, I was a visiting researcher in the [Renewable Energy & Turbulent Environment Group](https://chamorro.mechse.illinois.edu/) at the University of Illinois at Urbana-Champaign (UIUC).
+Hello. I am an AI Application Engineer at [Fervo Energy](https://fervoenergy.com/), where I previously completed a summer internship. I received my Ph.D. from the [Walker Department of Mechanical Engineering at the University of Texas at Austin](https://www.me.utexas.edu/), where I conducted research in the [Advanced Power Systems and Control Laboratory](https://www.apscl.me.utexas.edu/) under the supervision of Prof. [Dongmei "Maggie" Chen](https://www.me.utexas.edu/people/faculty-directory/chen). My Ph.D. research was funded by [Halliburton](https://www.halliburton.com/), and I completed two summer internships there. Before beginning my Ph.D., I was a visiting researcher in the [Renewable Energy & Turbulent Environment Group](https://chamorro.mechse.illinois.edu/) at the University of Illinois at Urbana-Champaign (UIUC). I earned both my master's and bachelor's degrees from Chongqing University. 
 
 My research centers on the integration of advanced physics-based and machine learning techniques to address complex challenges in both academia and industry. I specialize in the modeling, estimation, and control of diverse systems, with applications ranging from drilling automation, vehicle engineering, to fluid mechanics. My work aims to bridge the gap between theoretical advancements and practical implementations, driving innovation in different fields.
 
@@ -18,26 +18,52 @@ My research centers on the integration of advanced physics-based and machine lea
 
 <!-- Table of Contents for Projects -->
 <p>Jump to: 
-  <br><a href="#event-detection">🔔 Fault Diagnosis</a> | <a href="#directional-drilling">⛽️ Directional Drilling</a> | <a href="#optimization"> 🥣 Optimization</a> | <a href="#flow-structure-interaction"> 🌊 Turbulence</a> | <a href="#vehicle-engineering">🚗 Vehicles</a></p>
+  <br><a href="#ai-control-theory">🤖 AI & Control Theory</a> | <a href="#event-detection">🔔 Fault Diagnosis</a> | <a href="#directional-drilling">⛽️ Directional Drilling</a> | <a href="#optimization"> 🥣 Optimization</a> | <a href="#flow-structure-interaction"> 🌊 Turbulence</a> | <a href="#vehicle-engineering">🚗 Vehicles</a></p>
 
 <!-- Begin Projects Content -->
-<h3 id="event-detection">1. 🔔 Fault Diagnosis System for Drilling</h3>
+<h3 id="ai-control-theory">1. 🤖 AI & Control Theory</h3>
 
-<h4 id="ai-detection">1.1 AI driven detection system</h4>
+<h4 id="jiamin-theorem">1.1 Jiamin Theorem</h4>
+<div style="display: flex; align-items: center;">
+    <p>Description to be added.</p>
+</div>
+<hr>
+
+<h4 id="data-attribution">1.2 Data Attribution</h4>
+<div style="display: flex; align-items: center;">
+    <p>How does each data point affect the model performance? <br><br>Check out our paper <a href="https://arxiv.org/abs/2506.11293" target="_blank">Here</a>.</p>
+</div>
+<hr>
+
+<h4 id="llm-for-control">1.3 LLM for Control</h4>
+<div style="display: flex; align-items: center;">
+    <p>Not a control expert and don't know those terminologies, but still want to have a good controller? Natural language is enough! <br><br>Check out our paper <a href="https://arxiv.org/abs/2511.07894" target="_blank">Here</a>.</p>
+</div>
+<hr>
+
+<h4 id="reinforcement-learning">1.4 Reinforcement Learning</h4>
+<div style="display: flex; align-items: center;">
+    <p>Description to be added.</p>
+</div>
+<hr>
+
+<h3 id="event-detection">2. 🔔 Fault Diagnosis System for Drilling</h3>
+
+<h4 id="ai-detection">2.1 AI driven detection system</h4>
 <div style="display: flex; align-items: center;">
     <img src="https://jiaminx7.github.io/Website/images/AI.png" alt="AI" style="margin-right: 15px; width: 400px;">
     <p>LSTM and Transformer for event detection; GANs for data augmentation.</p>
 </div>
 <hr>
 
-<h4 id="two-phase-flow">1.2 Two Phase Flow Simulator</h4>
+<h4 id="two-phase-flow">2.2 Two Phase Flow Simulator</h4>
 <div style="display: flex; align-items: center;">
     <img src="https://jiaminx7.github.io/Website/images/DFM.gif" alt="DFM" style="margin-right: 15px; width: 400px;">
     <p>3 nonlinear PDEs with 4 closure equations to simulate the gas bubble propagation inside the wellbore.</p>
 </div>
 <hr>
 
-<h4 id="real-time-detection">1.3 Fast Real Time Detection System</h4>
+<h4 id="real-time-detection">2.3 Fast Real Time Detection System</h4>
 <div style="display: flex; align-items: center;">
     <img src="https://jiaminx7.github.io/Website/images/Graphic_Abstract.png" alt="UKF" style="margin-right: 15px; width: 400px;">
     <p>A model-based event detection system using UKF to achieve real-time monitoring and fault detection capabilities in drilling operations.
@@ -47,14 +73,14 @@ My research centers on the integration of advanced physics-based and machine lea
 </div>
 <hr>
 
-<h3 id="directional-drilling">2. ⛽️ Modeling, Estimation, and Control of Directional Drilling</h3>
+<h3 id="directional-drilling">3. ⛽️ Modeling, Estimation, and Control of Directional Drilling</h3>
  
 <div style="text-align: center;">
     <img src="https://jiaminx7.github.io/Website/images/Model_1.gif" alt="MECC_2023" style="width: 800px;">
 </div> 
 <div style="clear:both;"></div>
 
-<h4 id="model-validations">2.1 Model Validations</h4>
+<h4 id="model-validations">3.1 Model Validations</h4>
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
     <img src="https://jiaminx7.github.io/Website/images/Comparison.gif" alt="MECC_2023" style="margin-right: 15px; width: 400px;">
     <p>
@@ -65,7 +91,7 @@ My research centers on the integration of advanced physics-based and machine lea
 </div>
 <hr>
 
-<h4 id="model-improvements">2.2 Model Improvements</h4>
+<h4 id="model-improvements">3.2 Model Improvements</h4>
 
 <h5 id="ml-approach">Machine Learning approach</h5>
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
@@ -87,7 +113,7 @@ My research centers on the integration of advanced physics-based and machine lea
 </div>
 <hr>
 
-<h4 id="parameter-estimation">2.3 Parameter Estimation</h4>
+<h4 id="parameter-estimation">3.3 Parameter Estimation</h4>
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
     <img src="https://jiaminx7.github.io/Website/images/Estimation.png" alt="Estimation" style="margin-right: 15px; width: 400px;">
     <p>A Gradient Descent based method equipped with Line Search to estimate the unknown parameter during drilling. 
@@ -97,17 +123,17 @@ My research centers on the integration of advanced physics-based and machine lea
 </div>
 <hr>
 
-<h4 id="model-predictive-control">2.4 Model Predictive Control</h4>
+<h4 id="model-predictive-control">3.4 Model Predictive Control</h4>
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
     <img src="https://jiaminx7.github.io/Website/images/MPC.png" alt="MPC" style="margin-right: 15px; width: 400px;">
     <p>A Model Predictive Controller for directional drilling by using the nonlinear DDE model. 
 
-    <br><br>Check out our paper <a href="https://www.sciencedirect.com/science/article/pii/S2405896325000576" target="_blank">Here</a>, presented at Modeling, Estimation, and Control Conference (<a href="https://mecc2024.a2c2.org/" target="_blank">MECC 2024</a>).
+    <br><br>Check out our paper <a href="https://www.sciencedirect.com/science/article/pii/S2405896325000576" target="_blank">Here</a>, presented at Modeling, Estimation, and Control Conference (<a href="https://mecc2024.a2c2.org/" target="_blank">MECC 2024</a>), and another paper <a href="https://www.sciencedirect.com/science/article/abs/pii/S0959152425002057" target="_blank">Here</a>, published by <a href="https://www.sciencedirect.com/journal/journal-of-process-control" target="_blank">Journal of Process Control</a>.
     </p>
 </div>
 <hr>
 
-<h3 id="optimization">3. 🥣 Optimization Solver Package</h3>
+<h3 id="optimization">4. 🥣 Optimization Solver Package</h3>
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
     <img src="https://jiaminx7.github.io/Website/images/optimization.png" alt="Optimization" style="margin-right: 15px; width: 400px;">
     <p>RaghuRobi, named after one of my favorite instructors <a href="https://oden.utexas.edu/people/directory/Raghu-Bollapragada/" target="_blank">Dr. Bollapragada</a>, is a software package for solving unconstrained optimization problems with methods such as Gradient Descent, Newton-CG, and BFGS.
@@ -115,7 +141,7 @@ My research centers on the integration of advanced physics-based and machine lea
 </div>
 <hr>
 
-<h3 id="flow-structure-interaction">4. 🌊 Flow Structure Interaction</h3>
+<h3 id="flow-structure-interaction">5. 🌊 Flow Structure Interaction</h3>
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
     <img src="https://jiaminx7.github.io/Website/images/canopy.png" alt="FSI" style="margin-right: 15px; width: 400px;">
     <p>Experimental investigation of turbulence dynamics and transport modulated by canopies.
@@ -123,9 +149,9 @@ My research centers on the integration of advanced physics-based and machine lea
 </div>
 <hr>
 
-<h3 id="vehicle-engineering">5. 🚗 Vehicle Engineering</h3>
+<h3 id="vehicle-engineering">6. 🚗 Vehicle Engineering</h3>
 
-<h4 id="fuel-cells">5.1 Fuel Cells</h4>
+<h4 id="fuel-cells">6.1 Fuel Cells</h4>
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
     <img src="https://jiaminx7.github.io/Website/images/Fuelcell.png" alt="Fuelcell" style="margin-right: 15px; width: 400px;">
     <p>Optimization of graded catalyst layer to improve fuel cell performance. 
@@ -135,7 +161,7 @@ My research centers on the integration of advanced physics-based and machine lea
 </div>
 <hr>
 
-<h4 id="thermal-management">5.2 Vehicle Thermal Management</h4>
+<h4 id="thermal-management">6.2 Vehicle Thermal Management</h4>
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
     <img src="https://jiaminx7.github.io/Website/images/ITMS.png" alt="ITMS" style="margin-right: 15px; width: 400px;">
     <p>Integrated thermal management of fuel cell vehicles. 
@@ -145,7 +171,7 @@ My research centers on the integration of advanced physics-based and machine lea
 </div>
 <hr>
 
-<h4 id="formula-student">5.3 Formula Student China</h4>
+<h4 id="formula-student">6.3 Formula Student China</h4>
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
     <img src="https://jiaminx7.github.io/Website/images/FSAE.jpg" alt="FASE" style="margin-right: 15px; width: 400px;">
     <p>Three year experiences of <a href="http://www.formulastudent.com.cn/" target="_blank">Formula Student China</a> competition. Designed and manufactured one internal combustion engine and one electric formula racers per year.
@@ -161,6 +187,8 @@ My research centers on the integration of advanced physics-based and machine lea
 
 <h3 id="journal">Journal</h3>
 <ul>
+  <li>[<a href="#model-predictive-control">Overview</a>] | [<a href="https://www.sciencedirect.com/science/article/abs/pii/S0959152425002057">Download</a>] | <strong>Xu J</strong>, Demirer N, Pho V, Tian K, Zhang, H, Bhaidasna, K, Darbe R and Chen D, 2025. Real time multi-inputs multi-outputs economic model predictive control for directional drilling based on fast modeling and sensor fusion. <em>Journal of Process Control, 2025, 103577.</em></li>
+  
   <li>[<a href="#real-time-detection">Overview</a>] | [<a href="https://www.sciencedirect.com/science/article/pii/S2949891024009874">Download</a>] | <strong>Xu J</strong>, Aguirre J, Song S, Sun Z, Bhaidasna K, Chen D, 2024. A UKF Enabled Model Based Event Detection System for Drilling Operation. <em>Geoenergy Science and Engineering, 2024, 213617.</em></li>
   
   <li>[<a href="#physics-based-method">Overview</a>] | [<a href="https://www.sciencedirect.com/science/article/pii/S2949891024001994">Download</a>] | <strong>Xu J</strong>, Demirer N, Pho V, Tian K, Zhang H, Bhaidasna K, Darbe R and Chen D, 2024. Advancing real-time drilling trajectory prediction with an efficient nonlinear DDE model and online parameter estimation. <em>Geoenergy Science and Engineering, 238, p.212829.</em></li>
