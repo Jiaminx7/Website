@@ -25,25 +25,41 @@ My research centers on the integration of advanced physics-based and machine lea
 
 <h4 id="jiamin-theorem">1.1 Jiamin Theorem</h4>
 <div style="display: flex; align-items: center;">
-    <p>Description to be added.</p>
+    <img src="https://jiaminx7.github.io/Website/images/LCP.jpg" alt="LCP proof" style="margin-right: 15px; width: 400px;">
+    <p>
+        Solved a linear complementarity problem (LCP) that had remained unproven for six years and proposed a more general theorem.<br><br>
+        Check out our paper <a href="https://arxiv.org/abs/2508.05777" target="_blank">here</a>.
+    </p>
 </div>
 <hr>
 
 <h4 id="data-attribution">1.2 Data Attribution</h4>
 <div style="display: flex; align-items: center;">
-    <p>How does each data point affect the model performance? <br><br>Check out our paper <a href="https://arxiv.org/abs/2506.11293" target="_blank">Here</a>.</p>
+    <img src="https://jiaminx7.github.io/Website/images/Data attribution.jpg" alt="data attribution" style="margin-right: 15px; width: 400px;">
+    <p>
+        How does each data point affect model performance?<br><br>
+        Check out our paper <a href="https://arxiv.org/abs/2506.11293" target="_blank">here</a>.
+    </p>
 </div>
 <hr>
 
 <h4 id="llm-for-control">1.3 LLM for Control</h4>
 <div style="display: flex; align-items: center;">
-    <p>Not a control expert and don't know those terminologies, but still want to have a good controller? Natural language is enough! <br><br>Check out our paper <a href="https://arxiv.org/abs/2511.07894" target="_blank">Here</a>.</p>
+    <img src="https://jiaminx7.github.io/Website/images/LLM.jpg" alt="LLM" style="margin-right: 15px; width: 400px;">
+    <p>
+        Not a control expert and don't know those terminologies, but still want to have a good controller? Natural language is enough!<br><br>
+        Check out our paper <a href="https://arxiv.org/abs/2511.07894" target="_blank">here</a>.
+    </p>
 </div>
 <hr>
 
 <h4 id="reinforcement-learning">1.4 Reinforcement Learning</h4>
 <div style="display: flex; align-items: center;">
-    <p>Description to be added.</p>
+    <img src="https://jiaminx7.github.io/Website/images/RL.jpg" alt="RL" style="margin-right: 15px; width: 400px;">
+    <p>
+        The more data, the better? Not really.<br><br>
+        Check out our paper <a href="https://arxiv.org/abs/2511.07878" target="_blank">here</a>.
+    </p>
 </div>
 <hr>
 
